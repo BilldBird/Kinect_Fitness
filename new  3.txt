@@ -1,0 +1,43 @@
+//select sex
+        private void button1_Click(object sender, RoutedEventArgs e)
+        {
+            avatar1 av1 = new avatar1();
+            this.Content=av1;
+        }
+        private void button2_Click(object sender, RoutedEventArgs e)
+        {
+            avatar2 av2 = new avatar2();
+            this.Content = av2;
+        }
+        //select avatar with male
+        private void button3_Click(object sender, RoutedEventArgs e)
+        {
+            name name = new name();
+            this.Content = name;
+        }
+        private void button4_Click(object sender, RoutedEventArgs e)
+        {
+            name name = new name();
+            this.Content = name;
+        }
+        private void button5_Click(object sender, RoutedEventArgs e)
+        {
+            name name = new name();
+            this.Content = name;
+        }
+        //select avatar with female
+        private void button6_Click(object sender, RoutedEventArgs e)
+        {
+            name name = new name();
+            this.Content = name;
+        }
+        private void button7_Click(object sender, RoutedEventArgs e)
+        {
+            name name = new name();
+            this.Content = name;
+        }
+        private void button8_Click(object sender, RoutedEventArgs e)
+        {
+            name name = new name();
+            this.Content = name;
+        }

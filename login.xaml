@@ -1,0 +1,28 @@
+﻿<Page x:Class="KinectHubDemo.login"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:Controls="clr-namespace:Coding4Fun.Kinect.Wpf.Controls;assembly=Coding4Fun.Kinect.Wpf"
+      mc:Ignorable="d" 
+      d:DesignHeight="474" d:DesignWidth="769" Loaded="Page_Loaded"
+	Title="login">
+
+    <Grid>
+        <Button Content="" Height="144" HorizontalAlignment="Left" x:Name="user1" VerticalAlignment="Top" Width="142" Click="user1_Click" Margin="24,163,0,0">
+            
+        </Button>
+        <Button Content="" Height="144" HorizontalAlignment="Left" x:Name="user2" VerticalAlignment="Top" Width="142" Click="user2_Click" Margin="204,163,0,0">
+            
+        </Button>
+        <Button Content="" Height="144" HorizontalAlignment="Left" x:Name="user3" VerticalAlignment="Top" Width="142" Click="user3_Click" Margin="381,163,0,0">
+            
+        </Button>
+        <Button Content="" Height="144" HorizontalAlignment="Left" x:Name="adduser" VerticalAlignment="Top" Width="142" Click="adduser_Click" Margin="559,163,0,0">
+            
+        </Button>
+        <Label Content="" FontSize="24" Foreground="White" Height="51" HorizontalAlignment="Left" Margin="24,313,0,0" Name="label1" VerticalAlignment="Top" Width="142" />
+        <Label Content="" FontSize="24" Foreground="White" Height="51" HorizontalAlignment="Left" Margin="204,313,0,0" Name="label2" VerticalAlignment="Top" Width="142" />
+        <Label Content="" FontSize="24" Foreground="White" Height="51" HorizontalAlignment="Left" Margin="381,313,0,0" Name="label3" VerticalAlignment="Top" Width="142" />
+    </Grid>
+</Page>

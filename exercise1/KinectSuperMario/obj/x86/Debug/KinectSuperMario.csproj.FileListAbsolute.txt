@@ -1,0 +1,120 @@
+C:\Kinect Project\KinectSuperMario\KinectSuperMario\bin\Debug\KinectSuperMario.exe
+C:\Kinect Project\KinectSuperMario\KinectSuperMario\bin\Debug\KinectSuperMario.pdb
+C:\Kinect Project\KinectSuperMario\KinectSuperMario\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Kinect Project\KinectSuperMario\KinectSuperMario\obj\x86\Debug\MainWindow.baml
+C:\Kinect Project\KinectSuperMario\KinectSuperMario\obj\x86\Debug\MainWindow.g.cs
+C:\Kinect Project\KinectSuperMario\KinectSuperMario\obj\x86\Debug\App.g.cs
+C:\Kinect Project\KinectSuperMario\KinectSuperMario\obj\x86\Debug\KinectSuperMario_MarkupCompile.cache
+C:\Kinect Project\KinectSuperMario\KinectSuperMario\obj\x86\Debug\KinectSuperMario.g.resources
+C:\Kinect Project\KinectSuperMario\KinectSuperMario\obj\x86\Debug\KinectSuperMario.Properties.Resources.resources
+C:\Kinect Project\KinectSuperMario\KinectSuperMario\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Kinect Project\KinectSuperMario\KinectSuperMario\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Kinect Project\KinectSuperMario\KinectSuperMario\obj\x86\Debug\KinectSuperMario.exe
+C:\Kinect Project\KinectSuperMario\KinectSuperMario\obj\x86\Debug\KinectSuperMario.pdb
+C:\Kinect Project\KinectSuperMario\KinectSuperMario\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Kinect Project\KinectSuperMario\KinectSuperMario\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Kinect Project\Chapter 11\KinectSuperMario\KinectSuperMario\obj\x86\Debug\KinectSuperMario.exe
+C:\Kinect Project\Chapter 11\KinectSuperMario\KinectSuperMario\obj\x86\Debug\KinectSuperMario.pdb
+C:\Kinect Project\Chapter 11\KinectSuperMario\KinectSuperMario\bin\Debug\KinectSuperMario.exe
+C:\Kinect Project\Chapter 11\KinectSuperMario\KinectSuperMario\bin\Debug\KinectSuperMario.pdb
+C:\Kinect Project\Chapter 11\KinectSuperMario\KinectSuperMario\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Kinect Project\Chapter 11\KinectSuperMario\KinectSuperMario\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Kinect Project\Chapter 11\KinectSuperMario\KinectSuperMario\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Kinect Project\Chapter 11\KinectSuperMario\KinectSuperMario\obj\x86\Debug\MainWindow.baml
+C:\Kinect Project\Chapter 11\KinectSuperMario\KinectSuperMario\obj\x86\Debug\MainWindow.g.cs
+C:\Kinect Project\Chapter 11\KinectSuperMario\KinectSuperMario\obj\x86\Debug\App.g.cs
+C:\Kinect Project\Chapter 11\KinectSuperMario\KinectSuperMario\obj\x86\Debug\KinectSuperMario_MarkupCompile.cache
+C:\Kinect Project\Chapter 11\KinectSuperMario\KinectSuperMario\obj\x86\Debug\KinectSuperMario.g.resources
+C:\Kinect Project\Chapter 11\KinectSuperMario\KinectSuperMario\obj\x86\Debug\KinectSuperMario.Properties.Resources.resources
+C:\Kinect Project\Chapter 11\KinectSuperMario\KinectSuperMario\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Kinect Project\Chapter 11\KinectSuperMario\KinectSuperMario\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ada\Desktop\2012-2\Kinect+Project+-+v0.1\Chapter 11\KinectSuperMario\KinectSuperMario\obj\x86\Debug\KinectSuperMario.exe
+C:\Users\Ada\Desktop\2012-2\Kinect+Project+-+v0.1\Chapter 11\KinectSuperMario\KinectSuperMario\obj\x86\Debug\KinectSuperMario.pdb
+C:\Users\Ada\Desktop\2012-2\Kinect+Project+-+v0.1\Chapter 11\KinectSuperMario\KinectSuperMario\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ada\Desktop\2012-2\Kinect+Project+-+v0.1\Chapter 11\KinectSuperMario\KinectSuperMario\obj\x86\Debug\App.g.cs
+C:\Users\Ada\Desktop\2012-2\Kinect+Project+-+v0.1\Chapter 11\KinectSuperMario\KinectSuperMario\obj\x86\Debug\KinectSuperMario_MarkupCompile.cache
+C:\Users\Ada\Desktop\kinect\KinectSuperMario\KinectSuperMario\obj\x86\Debug\KinectSuperMario.exe
+C:\Users\Ada\Desktop\kinect\KinectSuperMario\KinectSuperMario\obj\x86\Debug\KinectSuperMario.pdb
+C:\Users\Ada\Desktop\kinect\KinectSuperMario\KinectSuperMario\obj\x86\Debug\App.g.cs
+C:\Users\Ada\Desktop\kinect\KinectSuperMario\KinectSuperMario\obj\x86\Debug\KinectSuperMario_MarkupCompile.cache
+C:\Users\Ada\Desktop\kinect\KinectSuperMario\KinectSuperMario\bin\Debug\KinectSuperMario.exe
+C:\Users\Ada\Desktop\kinect\KinectSuperMario\KinectSuperMario\bin\Debug\KinectSuperMario.pdb
+C:\Users\Ada\Desktop\kinect\KinectSuperMario\KinectSuperMario\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Users\Ada\Desktop\kinect\KinectSuperMario\KinectSuperMario\obj\x86\Debug\MainWindow.baml
+C:\Users\Ada\Desktop\kinect\KinectSuperMario\KinectSuperMario\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Ada\Desktop\kinect\KinectSuperMario\KinectSuperMario\obj\x86\Debug\KinectSuperMario.g.resources
+C:\Users\Ada\Desktop\kinect\KinectSuperMario\KinectSuperMario\obj\x86\Debug\KinectSuperMario.Properties.Resources.resources
+C:\Users\Ada\Desktop\kinect\KinectSuperMario\KinectSuperMario\obj\x86\Debug\KinectSuperMario.csprojResolveAssemblyReference.cache
+C:\Users\Ada\Desktop\kinect\KinectSuperMario\KinectSuperMario\obj\x86\Debug\KinectSuperMario.csproj.GenerateResource.Cache
+C:\Users\Ada\Desktop\kinect\KinectSuperMario\KinectSuperMario\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\Ada\Desktop\kinect\KinectSuperMario\KinectSuperMario\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\Ada\Desktop\kinect\KinectSuperMario\KinectSuperMario\bin\Debug\Coding4Fun.Kinect.Wpf.pdb
+C:\Users\Ada\Desktop\kinect\exercise1\KinectSuperMario\obj\x86\Debug\KinectSuperMario.exe
+C:\Users\Ada\Desktop\kinect\exercise1\KinectSuperMario\obj\x86\Debug\KinectSuperMario.pdb
+C:\Users\Ada\Desktop\kinect\exercise1\KinectSuperMario\bin\Debug\KinectSuperMario.exe
+C:\Users\Ada\Desktop\kinect\exercise1\KinectSuperMario\bin\Debug\KinectSuperMario.pdb
+C:\Users\Ada\Desktop\kinect\exercise1\KinectSuperMario\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\Ada\Desktop\kinect\exercise1\KinectSuperMario\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\Ada\Desktop\kinect\exercise1\KinectSuperMario\bin\Debug\Coding4Fun.Kinect.Wpf.pdb
+C:\Users\Ada\Desktop\kinect\exercise1\KinectSuperMario\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Users\Ada\Desktop\kinect\exercise1\KinectSuperMario\obj\x86\Debug\KinectSuperMario.csprojResolveAssemblyReference.cache
+C:\Users\Ada\Desktop\kinect\exercise1\KinectSuperMario\obj\x86\Debug\MainWindow.baml
+C:\Users\Ada\Desktop\kinect\exercise1\KinectSuperMario\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Ada\Desktop\kinect\exercise1\KinectSuperMario\obj\x86\Debug\App.g.cs
+C:\Users\Ada\Desktop\kinect\exercise1\KinectSuperMario\obj\x86\Debug\KinectSuperMario_MarkupCompile.cache
+C:\Users\Ada\Desktop\kinect\exercise1\KinectSuperMario\obj\x86\Debug\KinectSuperMario.g.resources
+C:\Users\Ada\Desktop\kinect\exercise1\KinectSuperMario\obj\x86\Debug\KinectSuperMario.Properties.Resources.resources
+C:\Users\Ada\Desktop\kinect\exercise1\KinectSuperMario\obj\x86\Debug\KinectSuperMario.csproj.GenerateResource.Cache
+C:\Users\Ada\Desktop\kinect\exercise1\KinectSuperMario\obj\x86\Debug\Page3.baml
+C:\Users\Ada\Desktop\kinect\exercise1\KinectSuperMario\obj\x86\Debug\Page3.g.cs
+C:\Users\Ada\Desktop\kinect\exercise1\KinectSuperMario\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Ada\Desktop\kinect\exercise1\KinectSuperMario\obj\x86\Debug\KinectSuperMario.csproj.ResolveComReference.cache
+C:\Users\Ada\Desktop\kinect\exercise1\KinectSuperMario\obj\x86\Debug\KinectSuperMario_Content.g.cs
+C:\Users\Ada\Desktop\kinect\exercise1\KinectSuperMario\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Ada\Desktop\kinect\exercise1\KinectSuperMario\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\jun\Desktop\Dropbox\Kinect\4.22\exercise1\KinectSuperMario\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\jun\Desktop\Dropbox\Kinect\4.22\exercise1\KinectSuperMario\obj\x86\Debug\KinectSuperMario.csproj.ResolveComReference.cache
+C:\Users\jun\Desktop\Dropbox\Kinect\4.22\exercise1\KinectSuperMario\obj\x86\Debug\KinectSuperMario.exe
+C:\Users\jun\Desktop\Dropbox\Kinect\4.22\exercise1\KinectSuperMario\obj\x86\Debug\KinectSuperMario.pdb
+C:\Users\Ada\Desktop\kinect\422\exercise1\KinectSuperMario\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Ada\Desktop\kinect\422\exercise1\KinectSuperMario\obj\x86\Debug\KinectSuperMario.csproj.ResolveComReference.cache
+C:\Users\Ada\Desktop\kinect\422\exercise1\KinectSuperMario\obj\x86\Debug\KinectSuperMario.exe
+C:\Users\Ada\Desktop\kinect\422\exercise1\KinectSuperMario\obj\x86\Debug\KinectSuperMario.pdb
+C:\Users\Ada\Desktop\kinect\422\exercise1\KinectSuperMario\bin\Debug\1.swf
+C:\Users\Ada\Desktop\kinect\422\exercise1\KinectSuperMario\bin\Debug\KinectSuperMario.exe
+C:\Users\Ada\Desktop\kinect\422\exercise1\KinectSuperMario\bin\Debug\KinectSuperMario.pdb
+C:\Users\Ada\Desktop\kinect\422\exercise1\KinectSuperMario\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Ada\Desktop\kinect\422\exercise1\KinectSuperMario\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\Ada\Desktop\kinect\422\exercise1\KinectSuperMario\bin\Debug\Coding4Fun.Kinect.Wpf.pdb
+C:\Users\Ada\Desktop\kinect\422\exercise1\KinectSuperMario\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Users\Ada\Desktop\kinect\422\exercise1\KinectSuperMario\obj\x86\Debug\KinectSuperMario.csprojResolveAssemblyReference.cache
+C:\Users\Ada\Desktop\kinect\422\exercise1\KinectSuperMario\obj\x86\Debug\MainWindow.baml
+C:\Users\Ada\Desktop\kinect\422\exercise1\KinectSuperMario\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Ada\Desktop\kinect\422\exercise1\KinectSuperMario\obj\x86\Debug\App.g.cs
+C:\Users\Ada\Desktop\kinect\422\exercise1\KinectSuperMario\obj\x86\Debug\KinectSuperMario_Content.g.cs
+C:\Users\Ada\Desktop\kinect\422\exercise1\KinectSuperMario\obj\x86\Debug\KinectSuperMario_MarkupCompile.cache
+C:\Users\Ada\Desktop\kinect\422\exercise1\KinectSuperMario\obj\x86\Debug\KinectSuperMario.g.resources
+C:\Users\Ada\Desktop\kinect\422\exercise1\KinectSuperMario\obj\x86\Debug\KinectSuperMario.Properties.Resources.resources
+C:\Users\Ada\Desktop\kinect\422\exercise1\KinectSuperMario\obj\x86\Debug\KinectSuperMario.csproj.GenerateResource.Cache
+C:\Users\Ada\Desktop\kinect\exercise1_final\KinectSuperMario\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Ada\Desktop\kinect\exercise1_final\KinectSuperMario\obj\x86\Debug\KinectSuperMario.csproj.ResolveComReference.cache
+C:\Users\Ada\Desktop\kinect\exercise1_final\KinectSuperMario\obj\x86\Debug\KinectSuperMario.exe
+C:\Users\Ada\Desktop\kinect\exercise1_final\KinectSuperMario\obj\x86\Debug\KinectSuperMario.pdb
+C:\Users\Ada\Desktop\kinect\exercise1_final\KinectSuperMario\bin\Debug\1.swf
+C:\Users\Ada\Desktop\kinect\exercise1_final\KinectSuperMario\bin\Debug\KinectSuperMario.exe
+C:\Users\Ada\Desktop\kinect\exercise1_final\KinectSuperMario\bin\Debug\KinectSuperMario.pdb
+C:\Users\Ada\Desktop\kinect\exercise1_final\KinectSuperMario\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Ada\Desktop\kinect\exercise1_final\KinectSuperMario\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\Ada\Desktop\kinect\exercise1_final\KinectSuperMario\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Ada\Desktop\kinect\exercise1_final\KinectSuperMario\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\Ada\Desktop\kinect\exercise1_final\KinectSuperMario\bin\Debug\Coding4Fun.Kinect.Wpf.pdb
+C:\Users\Ada\Desktop\kinect\exercise1_final\KinectSuperMario\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Users\Ada\Desktop\kinect\exercise1_final\KinectSuperMario\obj\x86\Debug\KinectSuperMario.csprojResolveAssemblyReference.cache
+C:\Users\Ada\Desktop\kinect\exercise1_final\KinectSuperMario\obj\x86\Debug\MainWindow.baml
+C:\Users\Ada\Desktop\kinect\exercise1_final\KinectSuperMario\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Ada\Desktop\kinect\exercise1_final\KinectSuperMario\obj\x86\Debug\App.g.cs
+C:\Users\Ada\Desktop\kinect\exercise1_final\KinectSuperMario\obj\x86\Debug\KinectSuperMario_Content.g.cs
+C:\Users\Ada\Desktop\kinect\exercise1_final\KinectSuperMario\obj\x86\Debug\KinectSuperMario_MarkupCompile.cache
+C:\Users\Ada\Desktop\kinect\exercise1_final\KinectSuperMario\obj\x86\Debug\KinectSuperMario.g.resources
+C:\Users\Ada\Desktop\kinect\exercise1_final\KinectSuperMario\obj\x86\Debug\KinectSuperMario.Properties.Resources.resources
+C:\Users\Ada\Desktop\kinect\exercise1_final\KinectSuperMario\obj\x86\Debug\KinectSuperMario.csproj.GenerateResource.Cache

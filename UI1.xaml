@@ -1,0 +1,31 @@
+﻿<Page x:Class="KinectHubDemo.UI1"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:Controls="clr-namespace:Coding4Fun.Kinect.Wpf.Controls;assembly=Coding4Fun.Kinect.Wpf"
+      mc:Ignorable="d" 
+      d:DesignHeight="474" d:DesignWidth="769" Loaded="Page_Loaded"
+	Title="UI1">
+
+    <Grid>
+        <Canvas Margin="0,0,0,0">
+            <Controls:HoverButton Margin="0" Padding="0" x:Name="kinectButton" ImageSize="64"                                           
+                                ImageSource="/Resources/Hand_Basic.png"  
+                                ActiveImageSource="/Resources/Hand_Basic.png" 
+                                TimeInterval="2000"  Canvas.Left="525" Canvas.Top="32" Panel.ZIndex="1000" />
+            <Button Content="" Height="277" HorizontalAlignment="Left" Name="button1" VerticalAlignment="Top" Width="171" Canvas.Left="154" Canvas.Top="110" Click="button1_Click">
+                
+                <Button.Background>
+                    <ImageBrush ImageSource="./image/male.jpg" />
+                </Button.Background>
+            </Button>
+            <Button Content="" Height="277" HorizontalAlignment="Left" Name="button2" VerticalAlignment="Top" Width="168" Canvas.Left="426" Canvas.Top="110" Click="button2_Click" >
+               
+                <Button.Background>
+                    <ImageBrush ImageSource="./image/female.jpg" />
+                </Button.Background>
+            </Button>
+            </Canvas>
+    </Grid>
+</Page>

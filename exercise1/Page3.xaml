@@ -1,0 +1,46 @@
+<Page x:Class="KinectHubDemo.Page3"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      mc:Ignorable="d" 
+      d:DesignHeight="735" d:DesignWidth="770"
+	Title="Page3" >
+
+    <Grid Name="layoutGrid" Margin="10 0 10 0">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        
+        <DockPanel Margin="0,0,0,574" Background="#00BCF2" Grid.Row="1">
+            <Image Source="Resources\actionimages\Status.png" Stretch="None" HorizontalAlignment="Center" Margin="0 0 0 5" RenderTransformOrigin="1.342,0.554"/>
+        </DockPanel>
+
+        <Grid Grid.Row="1" Margin="0 0 0 20">
+            <Image x:Name ="Backdrop" Source="Resources\actionimages\Background.png" Margin="0,46,0,-46" />
+            <Grid x:Name="FlashGrid" Margin="10,106,409,112" HorizontalAlignment="Left" VerticalAlignment="Center"/>
+            <Image x:Name ="MaskedColor" Margin="442,106,27,112" HorizontalAlignment="Right" VerticalAlignment="Center"/>
+        </Grid>
+        
+        <StatusBar Grid.Row="3" HorizontalAlignment="Stretch" Name="statusBar" VerticalAlignment="Bottom" Background="White">
+            <StatusBarItem Padding="0 0 0 10">
+                <TextBlock Name="statusBarText" Margin="-1 0 0 0">Press 'Screenshot' to save a screenshot to your 'My Pictures' directory.</TextBlock>
+            </StatusBarItem>
+        </StatusBar>
+        
+        <StatusBar HorizontalAlignment="Left"  Margin="75,10,0,0"  VerticalAlignment="Top" />
+
+        <StatusBar HorizontalAlignment="Right" Margin="423,10,0,0" VerticalAlignment="Top" />
+
+        <Button  Content="RETURN" HorizontalAlignment="Left" VerticalAlignment="Top" Width="86" 
+                Margin="10,10,0,0" Height="74" RenderTransformOrigin="0.854,0.225"  Grid.Row="1"
+               >
+            <Button.Background>
+                <ImageBrush ImageSource="/KinectUserInterfaceDemo;component/Resources/actionimages/Status.png" />
+            </Button.Background>
+        </Button>
+    </Grid>
+</Page>

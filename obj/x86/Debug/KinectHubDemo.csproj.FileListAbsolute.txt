@@ -1,0 +1,724 @@
+C:\Kinect Project\脚手架\kinectbuttonpress1\KinectUserInterfaceDemo\bin\Debug\KinectUserInterfaceDemo.exe
+C:\Kinect Project\脚手架\kinectbuttonpress1\KinectUserInterfaceDemo\bin\Debug\KinectUserInterfaceDemo.pdb
+C:\Kinect Project\脚手架\kinectbuttonpress1\KinectUserInterfaceDemo\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Kinect Project\脚手架\kinectbuttonpress1\KinectUserInterfaceDemo\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Kinect Project\脚手架\kinectbuttonpress1\KinectUserInterfaceDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Kinect Project\脚手架\kinectbuttonpress1\KinectUserInterfaceDemo\obj\x86\Debug\MainWindow.baml
+C:\Kinect Project\脚手架\kinectbuttonpress1\KinectUserInterfaceDemo\obj\x86\Debug\MainWindow.g.cs
+C:\Kinect Project\脚手架\kinectbuttonpress1\KinectUserInterfaceDemo\obj\x86\Debug\App.g.cs
+C:\Kinect Project\脚手架\kinectbuttonpress1\KinectUserInterfaceDemo\obj\x86\Debug\KinectUserInterfaceDemo_MarkupCompile.cache
+C:\Kinect Project\脚手架\kinectbuttonpress1\KinectUserInterfaceDemo\obj\x86\Debug\KinectUserInterfaceDemo.g.resources
+C:\Kinect Project\脚手架\kinectbuttonpress1\KinectUserInterfaceDemo\obj\x86\Debug\KinectHubDemo.Properties.Resources.resources
+C:\Kinect Project\脚手架\kinectbuttonpress1\KinectUserInterfaceDemo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Kinect Project\脚手架\kinectbuttonpress1\KinectUserInterfaceDemo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Kinect Project\脚手架\kinectbuttonpress1\KinectUserInterfaceDemo\obj\x86\Debug\KinectUserInterfaceDemo.exe
+C:\Kinect Project\脚手架\kinectbuttonpress1\KinectUserInterfaceDemo\obj\x86\Debug\KinectUserInterfaceDemo.pdb
+C:\Kinect Project\脚手架\KinectHubDemo\obj\x86\Debug\KinectUserInterfaceDemo.exe
+C:\Kinect Project\脚手架\KinectHubDemo\obj\x86\Debug\KinectUserInterfaceDemo.pdb
+C:\Kinect Project\脚手架\KinectHubDemo\bin\Debug\KinectUserInterfaceDemo.exe
+C:\Kinect Project\脚手架\KinectHubDemo\bin\Debug\KinectUserInterfaceDemo.pdb
+C:\Kinect Project\脚手架\KinectHubDemo\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Kinect Project\脚手架\KinectHubDemo\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Kinect Project\脚手架\KinectHubDemo\bin\Debug\Microsoft.Expression.Drawing.xml
+C:\Kinect Project\脚手架\KinectHubDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Kinect Project\脚手架\KinectHubDemo\obj\x86\Debug\MainWindow.baml
+C:\Kinect Project\脚手架\KinectHubDemo\obj\x86\Debug\MainWindow.g.cs
+C:\Kinect Project\脚手架\KinectHubDemo\obj\x86\Debug\App.g.cs
+C:\Kinect Project\脚手架\KinectHubDemo\obj\x86\Debug\KinectUserInterfaceDemo_MarkupCompile.cache
+C:\Kinect Project\脚手架\KinectHubDemo\obj\x86\Debug\KinectUserInterfaceDemo.g.resources
+C:\Kinect Project\脚手架\KinectHubDemo\obj\x86\Debug\KinectHubDemo.Properties.Resources.resources
+C:\Kinect Project\脚手架\KinectHubDemo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Kinect Project\脚手架\KinectHubDemo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Kinect Project\KinectHubDemo\obj\x86\Debug\KinectUserInterfaceDemo.exe
+C:\Kinect Project\KinectHubDemo\obj\x86\Debug\KinectUserInterfaceDemo.pdb
+C:\Kinect Project\KinectHubDemo\bin\Debug\KinectUserInterfaceDemo.exe
+C:\Kinect Project\KinectHubDemo\bin\Debug\KinectUserInterfaceDemo.pdb
+C:\Kinect Project\KinectHubDemo\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Kinect Project\KinectHubDemo\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Kinect Project\KinectHubDemo\bin\Debug\Microsoft.Expression.Drawing.xml
+C:\Kinect Project\KinectHubDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Kinect Project\KinectHubDemo\obj\x86\Debug\MainWindow.baml
+C:\Kinect Project\KinectHubDemo\obj\x86\Debug\MainWindow.g.cs
+C:\Kinect Project\KinectHubDemo\obj\x86\Debug\App.g.cs
+C:\Kinect Project\KinectHubDemo\obj\x86\Debug\KinectUserInterfaceDemo_MarkupCompile.cache
+C:\Kinect Project\KinectHubDemo\obj\x86\Debug\KinectUserInterfaceDemo.g.resources
+C:\Kinect Project\KinectHubDemo\obj\x86\Debug\KinectHubDemo.Properties.Resources.resources
+C:\Kinect Project\KinectHubDemo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Kinect Project\KinectHubDemo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Kinect Project\Chapter 13\KinectHubDemo\obj\x86\Debug\KinectUserInterfaceDemo.exe
+C:\Kinect Project\Chapter 13\KinectHubDemo\obj\x86\Debug\KinectUserInterfaceDemo.pdb
+C:\Kinect Project\Chapter 13\KinectHubDemo\bin\Debug\KinectUserInterfaceDemo.exe
+C:\Kinect Project\Chapter 13\KinectHubDemo\bin\Debug\KinectUserInterfaceDemo.pdb
+C:\Kinect Project\Chapter 13\KinectHubDemo\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Kinect Project\Chapter 13\KinectHubDemo\bin\Debug\Microsoft.Expression.Drawing.xml
+C:\Kinect Project\Chapter 13\KinectHubDemo\obj\x86\Debug\MainWindow.baml
+C:\Kinect Project\Chapter 13\KinectHubDemo\obj\x86\Debug\MainWindow.g.cs
+C:\Kinect Project\Chapter 13\KinectHubDemo\obj\x86\Debug\App.g.cs
+C:\Kinect Project\Chapter 13\KinectHubDemo\obj\x86\Debug\KinectUserInterfaceDemo_MarkupCompile.cache
+C:\Kinect Project\Chapter 13\KinectHubDemo\obj\x86\Debug\KinectUserInterfaceDemo.g.resources
+C:\Kinect Project\Chapter 13\KinectHubDemo\obj\x86\Debug\KinectHubDemo.Properties.Resources.resources
+C:\Kinect Project\Chapter 13\KinectHubDemo\obj\x86\Debug\KinectHubDemo.csprojResolveAssemblyReference.cache
+C:\Kinect Project\Chapter 13\KinectHubDemo\obj\x86\Debug\KinectHubDemo.csproj.GenerateResource.Cache
+C:\Users\Ada\Desktop\2012-2\Kinect+Project+-+v0.1\Chapter 13\KinectHubDemo\obj\x86\Debug\KinectUserInterfaceDemo.exe
+C:\Users\Ada\Desktop\2012-2\Kinect+Project+-+v0.1\Chapter 13\KinectHubDemo\obj\x86\Debug\KinectUserInterfaceDemo.pdb
+C:\Users\Ada\Desktop\2012-2\Kinect+Project+-+v0.1\Chapter 13\KinectHubDemo\bin\Debug\KinectUserInterfaceDemo.exe
+C:\Users\Ada\Desktop\2012-2\Kinect+Project+-+v0.1\Chapter 13\KinectHubDemo\bin\Debug\KinectUserInterfaceDemo.pdb
+C:\Users\Ada\Desktop\2012-2\Kinect+Project+-+v0.1\Chapter 13\KinectHubDemo\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\Ada\Desktop\2012-2\Kinect+Project+-+v0.1\Chapter 13\KinectHubDemo\bin\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\Ada\Desktop\2012-2\Kinect+Project+-+v0.1\Chapter 13\KinectHubDemo\obj\x86\Debug\KinectHubDemo.csprojResolveAssemblyReference.cache
+C:\Users\Ada\Desktop\2012-2\Kinect+Project+-+v0.1\Chapter 13\KinectHubDemo\obj\x86\Debug\MainWindow.baml
+C:\Users\Ada\Desktop\2012-2\Kinect+Project+-+v0.1\Chapter 13\KinectHubDemo\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Ada\Desktop\2012-2\Kinect+Project+-+v0.1\Chapter 13\KinectHubDemo\obj\x86\Debug\App.g.cs
+C:\Users\Ada\Desktop\2012-2\Kinect+Project+-+v0.1\Chapter 13\KinectHubDemo\obj\x86\Debug\KinectUserInterfaceDemo_MarkupCompile.cache
+C:\Users\Ada\Desktop\2012-2\Kinect+Project+-+v0.1\Chapter 13\KinectHubDemo\obj\x86\Debug\KinectUserInterfaceDemo.g.resources
+C:\Users\Ada\Desktop\2012-2\Kinect+Project+-+v0.1\Chapter 13\KinectHubDemo\obj\x86\Debug\KinectHubDemo.Properties.Resources.resources
+C:\Users\Ada\Desktop\2012-2\Kinect+Project+-+v0.1\Chapter 13\KinectHubDemo\obj\x86\Debug\KinectHubDemo.csproj.GenerateResource.Cache
+C:\Users\Ada\Desktop\kinect\Fitness\obj\x86\Debug\KinectUserInterfaceDemo.exe
+C:\Users\Ada\Desktop\kinect\Fitness\obj\x86\Debug\KinectUserInterfaceDemo.pdb
+C:\Users\Ada\Desktop\kinect\Fitness\obj\x86\Debug\KinectHubDemo.csprojResolveAssemblyReference.cache
+C:\Users\Ada\Desktop\kinect\Fitness\obj\x86\Debug\MainWindow.baml
+C:\Users\Ada\Desktop\kinect\Fitness\obj\x86\Debug\Page1.baml
+C:\Users\Ada\Desktop\kinect\Fitness\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Ada\Desktop\kinect\Fitness\obj\x86\Debug\Page1.g.cs
+C:\Users\Ada\Desktop\kinect\Fitness\obj\x86\Debug\App.g.cs
+C:\Users\Ada\Desktop\kinect\Fitness\obj\x86\Debug\KinectUserInterfaceDemo_MarkupCompile.cache
+C:\Users\Ada\Desktop\kinect\Fitness\obj\x86\Debug\KinectUserInterfaceDemo.g.resources
+C:\Users\Ada\Desktop\kinect\Fitness\obj\x86\Debug\KinectHubDemo.Properties.Resources.resources
+C:\Users\Ada\Desktop\kinect\Fitness\obj\x86\Debug\KinectHubDemo.csproj.GenerateResource.Cache
+C:\Users\Ada\Desktop\kinect\Fitness\bin\Debug\KinectUserInterfaceDemo.exe
+C:\Users\Ada\Desktop\kinect\Fitness\bin\Debug\KinectUserInterfaceDemo.pdb
+C:\Users\Ada\Desktop\kinect\Fitness\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\Ada\Desktop\kinect\Fitness\bin\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\Ada\Desktop\kinect\Fitness\obj\x86\Debug\exercise1.baml
+C:\Users\Ada\Desktop\kinect\Fitness\obj\x86\Debug\exercise1.g.cs
+C:\Users\Ada\Desktop\kinect\Fitness\obj\x86\Debug\Page2.baml
+C:\Users\Ada\Desktop\kinect\Fitness\obj\x86\Debug\Page2.g.cs
+C:\Users\jun\Desktop\kinect\Fitness\obj\x86\Debug\KinectUserInterfaceDemo.exe
+C:\Users\jun\Desktop\kinect\Fitness\bin\Debug\KinectUserInterfaceDemo.exe
+C:\Users\jun\Desktop\kinect\Fitness\bin\Debug\KinectUserInterfaceDemo.pdb
+C:\Users\jun\Desktop\kinect\Fitness\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\jun\Desktop\kinect\Fitness\bin\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\jun\Desktop\kinect\Fitness\obj\x86\Debug\KinectHubDemo.csprojResolveAssemblyReference.cache
+C:\Users\jun\Desktop\kinect\Fitness\obj\x86\Debug\exercise1.baml
+C:\Users\jun\Desktop\kinect\Fitness\obj\x86\Debug\MainWindow.baml
+C:\Users\jun\Desktop\kinect\Fitness\obj\x86\Debug\Page1.baml
+C:\Users\jun\Desktop\kinect\Fitness\obj\x86\Debug\Page2.baml
+C:\Users\jun\Desktop\kinect\Fitness\obj\x86\Debug\exercise1.g.cs
+C:\Users\jun\Desktop\kinect\Fitness\obj\x86\Debug\MainWindow.g.cs
+C:\Users\jun\Desktop\kinect\Fitness\obj\x86\Debug\Page1.g.cs
+C:\Users\jun\Desktop\kinect\Fitness\obj\x86\Debug\Page2.g.cs
+C:\Users\jun\Desktop\kinect\Fitness\obj\x86\Debug\App.g.cs
+C:\Users\jun\Desktop\kinect\Fitness\obj\x86\Debug\KinectUserInterfaceDemo_MarkupCompile.cache
+C:\Users\jun\Desktop\kinect\Fitness\obj\x86\Debug\KinectUserInterfaceDemo.g.resources
+C:\Users\jun\Desktop\kinect\Fitness\obj\x86\Debug\KinectHubDemo.Properties.Resources.resources
+C:\Users\jun\Desktop\kinect\Fitness\obj\x86\Debug\KinectHubDemo.csproj.GenerateResource.Cache
+C:\Users\jun\Desktop\kinect\Fitness\obj\x86\Debug\KinectUserInterfaceDemo.pdb
+C:\Users\jun\Desktop\kinect\Fitness\bin\Debug\MainWindow.xaml.cs
+C:\Users\jun\Desktop\kinect\Fitness\bin\Debug\Page1.xaml.cs
+C:\Users\jun\Desktop\kinect\Fitness\bin\Debug\Page2.xaml.cs
+C:\Users\jun\Desktop\kinect\Fitness\obj\x86\Debug\Window2.baml
+C:\Users\jun\Desktop\kinect\Fitness\obj\x86\Debug\Window2.g.cs
+C:\Users\jun\Desktop\kinect\Fitness\obj\x86\Debug\Window3.baml
+C:\Users\jun\Desktop\kinect\Fitness\obj\x86\Debug\Window3.g.cs
+C:\Users\jun\Desktop\kinect\Fitness\obj\x86\Debug\KinectUserInterfaceDemo_Content.g.cs
+C:\Users\jun\Desktop\kinect\Fitness\obj\x86\Debug\Page3.baml
+C:\Users\jun\Desktop\kinect\Fitness\obj\x86\Debug\Page3.g.cs
+C:\Users\jun\Desktop\kinect\Fitness\obj\x86\Debug\Window1.baml
+C:\Users\jun\Desktop\kinect\Fitness\obj\x86\Debug\Window1.g.cs
+C:\Users\jun\Desktop\kinect\Fitness\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Users\jun\Desktop\kinect\Fitness\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Users\jun\Desktop\kinect\Fitness\bin\Debug\Window1.xaml.cs
+C:\Users\jun\Desktop\kinect\Fitness\bin\Debug\App.xaml.cs
+C:\Users\jun\Desktop\kinect\Fitness\bin\Debug\sample.swf
+C:\Users\jun\Desktop\Dropbox\Kinect\4.23\Fitness\obj\x86\Debug\KinectUserInterfaceDemo.exe
+C:\Users\jun\Desktop\Dropbox\Kinect\4.23\Fitness\obj\x86\Debug\KinectUserInterfaceDemo.pdb
+C:\Users\Ada\Desktop\kinect\Fitness\bin\Debug\sample.swf
+C:\Users\Ada\Desktop\kinect\Fitness\bin\Debug\Window1.xaml.cs
+C:\Users\Ada\Desktop\kinect\Fitness\bin\Debug\App.xaml.cs
+C:\Users\Ada\Desktop\kinect\Fitness\bin\Debug\MainWindow.xaml.cs
+C:\Users\Ada\Desktop\kinect\Fitness\bin\Debug\Page1.xaml.cs
+C:\Users\Ada\Desktop\kinect\Fitness\bin\Debug\Page2.xaml.cs
+C:\Users\Ada\Desktop\kinect\Fitness\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Users\Ada\Desktop\kinect\Fitness\obj\x86\Debug\Page3.baml
+C:\Users\Ada\Desktop\kinect\Fitness\obj\x86\Debug\Window1.baml
+C:\Users\Ada\Desktop\kinect\Fitness\obj\x86\Debug\Window3.baml
+C:\Users\Ada\Desktop\kinect\Fitness\obj\x86\Debug\Window2.baml
+C:\Users\Ada\Desktop\kinect\Fitness\obj\x86\Debug\Page3.g.cs
+C:\Users\Ada\Desktop\kinect\Fitness\obj\x86\Debug\Window1.g.cs
+C:\Users\Ada\Desktop\kinect\Fitness\obj\x86\Debug\Window3.g.cs
+C:\Users\Ada\Desktop\kinect\Fitness\obj\x86\Debug\Window2.g.cs
+C:\Users\Ada\Desktop\kinect\Fitness\obj\x86\Debug\KinectUserInterfaceDemo_Content.g.cs
+C:\Users\Ada\Desktop\kinect\Fitness_new\Fitness_new\obj\x86\Debug\KinectUserInterfaceDemo.exe
+C:\Users\Ada\Desktop\kinect\Fitness_new\Fitness_new\obj\x86\Debug\KinectUserInterfaceDemo.pdb
+C:\Users\Ada\Desktop\kinect\Fitness_new\Fitness_new\bin\Debug\sample.swf
+C:\Users\Ada\Desktop\kinect\Fitness_new\Fitness_new\bin\Debug\Window1.xaml.cs
+C:\Users\Ada\Desktop\kinect\Fitness_new\Fitness_new\bin\Debug\App.xaml.cs
+C:\Users\Ada\Desktop\kinect\Fitness_new\Fitness_new\bin\Debug\MainWindow.xaml.cs
+C:\Users\Ada\Desktop\kinect\Fitness_new\Fitness_new\bin\Debug\Page1.xaml.cs
+C:\Users\Ada\Desktop\kinect\Fitness_new\Fitness_new\bin\Debug\Page2.xaml.cs
+C:\Users\Ada\Desktop\kinect\Fitness_new\Fitness_new\bin\Debug\KinectUserInterfaceDemo.exe
+C:\Users\Ada\Desktop\kinect\Fitness_new\Fitness_new\bin\Debug\KinectUserInterfaceDemo.pdb
+C:\Users\Ada\Desktop\kinect\Fitness_new\Fitness_new\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\Ada\Desktop\kinect\Fitness_new\Fitness_new\bin\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\Ada\Desktop\kinect\Fitness_new\Fitness_new\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Users\Ada\Desktop\kinect\Fitness_new\Fitness_new\obj\x86\Debug\KinectHubDemo.csprojResolveAssemblyReference.cache
+C:\Users\Ada\Desktop\kinect\Fitness_new\Fitness_new\obj\x86\Debug\exercise1.baml
+C:\Users\Ada\Desktop\kinect\Fitness_new\Fitness_new\obj\x86\Debug\MainWindow.baml
+C:\Users\Ada\Desktop\kinect\Fitness_new\Fitness_new\obj\x86\Debug\Page1.baml
+C:\Users\Ada\Desktop\kinect\Fitness_new\Fitness_new\obj\x86\Debug\Page2.baml
+C:\Users\Ada\Desktop\kinect\Fitness_new\Fitness_new\obj\x86\Debug\Page3.baml
+C:\Users\Ada\Desktop\kinect\Fitness_new\Fitness_new\obj\x86\Debug\Window1.baml
+C:\Users\Ada\Desktop\kinect\Fitness_new\Fitness_new\obj\x86\Debug\Window3.baml
+C:\Users\Ada\Desktop\kinect\Fitness_new\Fitness_new\obj\x86\Debug\Window2.baml
+C:\Users\Ada\Desktop\kinect\Fitness_new\Fitness_new\obj\x86\Debug\exercise1.g.cs
+C:\Users\Ada\Desktop\kinect\Fitness_new\Fitness_new\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Ada\Desktop\kinect\Fitness_new\Fitness_new\obj\x86\Debug\Page1.g.cs
+C:\Users\Ada\Desktop\kinect\Fitness_new\Fitness_new\obj\x86\Debug\Page2.g.cs
+C:\Users\Ada\Desktop\kinect\Fitness_new\Fitness_new\obj\x86\Debug\Page3.g.cs
+C:\Users\Ada\Desktop\kinect\Fitness_new\Fitness_new\obj\x86\Debug\Window1.g.cs
+C:\Users\Ada\Desktop\kinect\Fitness_new\Fitness_new\obj\x86\Debug\Window3.g.cs
+C:\Users\Ada\Desktop\kinect\Fitness_new\Fitness_new\obj\x86\Debug\Window2.g.cs
+C:\Users\Ada\Desktop\kinect\Fitness_new\Fitness_new\obj\x86\Debug\App.g.cs
+C:\Users\Ada\Desktop\kinect\Fitness_new\Fitness_new\obj\x86\Debug\KinectUserInterfaceDemo_Content.g.cs
+C:\Users\Ada\Desktop\kinect\Fitness_new\Fitness_new\obj\x86\Debug\KinectUserInterfaceDemo_MarkupCompile.cache
+C:\Users\Ada\Desktop\kinect\Fitness_new\Fitness_new\obj\x86\Debug\KinectUserInterfaceDemo.g.resources
+C:\Users\Ada\Desktop\kinect\Fitness_new\Fitness_new\obj\x86\Debug\KinectHubDemo.Properties.Resources.resources
+C:\Users\Ada\Desktop\kinect\Fitness_new\Fitness_new\obj\x86\Debug\KinectHubDemo.csproj.GenerateResource.Cache
+C:\Users\Ada\Desktop\kinect\Fitness_new\Fitness_new\bin\Debug\1.swf
+C:\Users\Ada\Desktop\kinect\Fitness_new\Fitness_new\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Ada\Desktop\kinect\Fitness_new\Fitness_new\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\Ada\Desktop\kinect\Fitness_new\Fitness_new\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\jun\Desktop\kinect\Fitness_new\obj\x86\Debug\KinectUserInterfaceDemo.exe
+C:\Users\jun\Desktop\kinect\Fitness_new\obj\x86\Debug\KinectUserInterfaceDemo.pdb
+C:\Users\jun\Desktop\kinect\Fitness_new\bin\Debug\Window1.xaml.cs
+C:\Users\jun\Desktop\kinect\Fitness_new\bin\Debug\App.xaml.cs
+C:\Users\jun\Desktop\kinect\Fitness_new\bin\Debug\MainWindow.xaml.cs
+C:\Users\jun\Desktop\kinect\Fitness_new\bin\Debug\KinectUserInterfaceDemo.exe
+C:\Users\jun\Desktop\kinect\Fitness_new\bin\Debug\KinectUserInterfaceDemo.pdb
+C:\Users\jun\Desktop\kinect\Fitness_new\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\jun\Desktop\kinect\Fitness_new\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\jun\Desktop\kinect\Fitness_new\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\jun\Desktop\kinect\Fitness_new\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Users\jun\Desktop\kinect\Fitness_new\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\jun\Desktop\kinect\Fitness_new\bin\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\jun\Desktop\kinect\Fitness_new\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Users\jun\Desktop\kinect\Fitness_new\obj\x86\Debug\KinectHubDemo.csprojResolveAssemblyReference.cache
+C:\Users\jun\Desktop\kinect\Fitness_new\obj\x86\Debug\exercise1.baml
+C:\Users\jun\Desktop\kinect\Fitness_new\obj\x86\Debug\MainWindow.baml
+C:\Users\jun\Desktop\kinect\Fitness_new\obj\x86\Debug\Window1.baml
+C:\Users\jun\Desktop\kinect\Fitness_new\obj\x86\Debug\Window3.baml
+C:\Users\jun\Desktop\kinect\Fitness_new\obj\x86\Debug\Window2.baml
+C:\Users\jun\Desktop\kinect\Fitness_new\obj\x86\Debug\exercise1.g.cs
+C:\Users\jun\Desktop\kinect\Fitness_new\obj\x86\Debug\MainWindow.g.cs
+C:\Users\jun\Desktop\kinect\Fitness_new\obj\x86\Debug\Window1.g.cs
+C:\Users\jun\Desktop\kinect\Fitness_new\obj\x86\Debug\Window3.g.cs
+C:\Users\jun\Desktop\kinect\Fitness_new\obj\x86\Debug\Window2.g.cs
+C:\Users\jun\Desktop\kinect\Fitness_new\obj\x86\Debug\App.g.cs
+C:\Users\jun\Desktop\kinect\Fitness_new\obj\x86\Debug\KinectUserInterfaceDemo_MarkupCompile.cache
+C:\Users\jun\Desktop\kinect\Fitness_new\obj\x86\Debug\KinectUserInterfaceDemo.g.resources
+C:\Users\jun\Desktop\kinect\Fitness_new\obj\x86\Debug\KinectHubDemo.Properties.Resources.resources
+C:\Users\jun\Desktop\kinect\Fitness_new\obj\x86\Debug\KinectHubDemo.csproj.GenerateResource.Cache
+C:\Users\jun\Desktop\kinect\Fitness_new\bin\Debug\KinectUserInterfaceDemo.exe.config
+C:\Users\jun\Desktop\kinect\Fitness_new\obj\x86\Debug\UI1.baml
+C:\Users\jun\Desktop\kinect\Fitness_new\obj\x86\Debug\UI1.g.cs
+C:\Users\jun\Desktop\kinect\Fitness_new\obj\x86\Debug\avatar2.baml
+C:\Users\jun\Desktop\kinect\Fitness_new\obj\x86\Debug\confirm.baml
+C:\Users\jun\Desktop\kinect\Fitness_new\obj\x86\Debug\name.baml
+C:\Users\jun\Desktop\kinect\Fitness_new\obj\x86\Debug\avatar1.baml
+C:\Users\jun\Desktop\kinect\Fitness_new\obj\x86\Debug\Window7.baml
+C:\Users\jun\Desktop\kinect\Fitness_new\obj\x86\Debug\avatar2.g.cs
+C:\Users\jun\Desktop\kinect\Fitness_new\obj\x86\Debug\confirm.g.cs
+C:\Users\jun\Desktop\kinect\Fitness_new\obj\x86\Debug\name.g.cs
+C:\Users\jun\Desktop\kinect\Fitness_new\obj\x86\Debug\avatar1.g.cs
+C:\Users\jun\Desktop\kinect\Fitness_new\obj\x86\Debug\Window7.g.cs
+C:\Users\jun\Desktop\kinect\Fitness_new\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\Ada\Desktop\Debug\Fitness_new\bin\Debug\KinectUserInterfaceDemo.exe.config
+C:\Users\Ada\Desktop\Debug\Fitness_new\obj\x86\Debug\KinectUserInterfaceDemo.exe
+C:\Users\Ada\Desktop\Debug\Fitness_new\obj\x86\Debug\KinectUserInterfaceDemo.pdb
+C:\Users\Ada\Desktop\Debug\Fitness_new\bin\Debug\1.swf
+C:\Users\Ada\Desktop\Debug\Fitness_new\bin\Debug\sample.swf
+C:\Users\Ada\Desktop\Debug\Fitness_new\bin\Debug\Window1.xaml.cs
+C:\Users\Ada\Desktop\Debug\Fitness_new\bin\Debug\App.xaml.cs
+C:\Users\Ada\Desktop\Debug\Fitness_new\bin\Debug\MainWindow.xaml.cs
+C:\Users\Ada\Desktop\Debug\Fitness_new\bin\Debug\KinectUserInterfaceDemo.exe
+C:\Users\Ada\Desktop\Debug\Fitness_new\bin\Debug\KinectUserInterfaceDemo.pdb
+C:\Users\Ada\Desktop\Debug\Fitness_new\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Ada\Desktop\Debug\Fitness_new\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\Ada\Desktop\Debug\Fitness_new\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Ada\Desktop\Debug\Fitness_new\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\Ada\Desktop\Debug\Fitness_new\bin\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\Ada\Desktop\Debug\Fitness_new\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Users\Ada\Desktop\Debug\Fitness_new\obj\x86\Debug\KinectHubDemo.csprojResolveAssemblyReference.cache
+C:\Users\Ada\Desktop\Debug\Fitness_new\obj\x86\Debug\avatar2.baml
+C:\Users\Ada\Desktop\Debug\Fitness_new\obj\x86\Debug\confirm.baml
+C:\Users\Ada\Desktop\Debug\Fitness_new\obj\x86\Debug\exercise1.baml
+C:\Users\Ada\Desktop\Debug\Fitness_new\obj\x86\Debug\MainWindow.baml
+C:\Users\Ada\Desktop\Debug\Fitness_new\obj\x86\Debug\name.baml
+C:\Users\Ada\Desktop\Debug\Fitness_new\obj\x86\Debug\UI1.baml
+C:\Users\Ada\Desktop\Debug\Fitness_new\obj\x86\Debug\avatar1.baml
+C:\Users\Ada\Desktop\Debug\Fitness_new\obj\x86\Debug\Window1.baml
+C:\Users\Ada\Desktop\Debug\Fitness_new\obj\x86\Debug\Window3.baml
+C:\Users\Ada\Desktop\Debug\Fitness_new\obj\x86\Debug\Window2.baml
+C:\Users\Ada\Desktop\Debug\Fitness_new\obj\x86\Debug\Window7.baml
+C:\Users\Ada\Desktop\Debug\Fitness_new\obj\x86\Debug\avatar2.g.cs
+C:\Users\Ada\Desktop\Debug\Fitness_new\obj\x86\Debug\confirm.g.cs
+C:\Users\Ada\Desktop\Debug\Fitness_new\obj\x86\Debug\exercise1.g.cs
+C:\Users\Ada\Desktop\Debug\Fitness_new\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Ada\Desktop\Debug\Fitness_new\obj\x86\Debug\name.g.cs
+C:\Users\Ada\Desktop\Debug\Fitness_new\obj\x86\Debug\UI1.g.cs
+C:\Users\Ada\Desktop\Debug\Fitness_new\obj\x86\Debug\avatar1.g.cs
+C:\Users\Ada\Desktop\Debug\Fitness_new\obj\x86\Debug\Window1.g.cs
+C:\Users\Ada\Desktop\Debug\Fitness_new\obj\x86\Debug\Window3.g.cs
+C:\Users\Ada\Desktop\Debug\Fitness_new\obj\x86\Debug\Window2.g.cs
+C:\Users\Ada\Desktop\Debug\Fitness_new\obj\x86\Debug\Window7.g.cs
+C:\Users\Ada\Desktop\Debug\Fitness_new\obj\x86\Debug\App.g.cs
+C:\Users\Ada\Desktop\Debug\Fitness_new\obj\x86\Debug\KinectUserInterfaceDemo_Content.g.cs
+C:\Users\Ada\Desktop\Debug\Fitness_new\obj\x86\Debug\KinectUserInterfaceDemo_MarkupCompile.cache
+C:\Users\Ada\Desktop\Debug\Fitness_new\obj\x86\Debug\KinectUserInterfaceDemo.g.resources
+C:\Users\Ada\Desktop\Debug\Fitness_new\obj\x86\Debug\KinectHubDemo.Properties.Resources.resources
+C:\Users\Ada\Desktop\Debug\Fitness_new\obj\x86\Debug\KinectHubDemo.csproj.GenerateResource.Cache
+C:\Users\jun\Desktop\kinect\Fitness_new\obj\x86\Debug\window8.baml
+C:\Users\jun\Desktop\kinect\Fitness_new\obj\x86\Debug\window8.g.cs
+C:\Users\jun\Desktop\Dropbox\Kinect\Debug\Fitness_new\bin\Debug\KinectUserInterfaceDemo.exe.config
+C:\Users\jun\Desktop\Dropbox\Kinect\Debug\Fitness_new\obj\x86\Debug\KinectUserInterfaceDemo.exe
+C:\Users\jun\Desktop\Dropbox\Kinect\Debug\Fitness_new\obj\x86\Debug\KinectUserInterfaceDemo.pdb
+C:\Users\jun\Desktop\Dropbox\Kinect\Debug\Fitness_new\bin\Debug\Window1.xaml.cs
+C:\Users\jun\Desktop\Dropbox\Kinect\Debug\Fitness_new\bin\Debug\App.xaml.cs
+C:\Users\jun\Desktop\Dropbox\Kinect\Debug\Fitness_new\bin\Debug\MainWindow.xaml.cs
+C:\Users\jun\Desktop\Dropbox\Kinect\Debug\Fitness_new\bin\Debug\KinectUserInterfaceDemo.exe
+C:\Users\jun\Desktop\Dropbox\Kinect\Debug\Fitness_new\bin\Debug\KinectUserInterfaceDemo.pdb
+C:\Users\jun\Desktop\Dropbox\Kinect\Debug\Fitness_new\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\jun\Desktop\Dropbox\Kinect\Debug\Fitness_new\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\jun\Desktop\Dropbox\Kinect\Debug\Fitness_new\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\jun\Desktop\Dropbox\Kinect\Debug\Fitness_new\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\jun\Desktop\Dropbox\Kinect\Debug\Fitness_new\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\jun\Desktop\Dropbox\Kinect\Debug\Fitness_new\bin\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\jun\Desktop\Dropbox\Kinect\Debug\Fitness_new\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Users\jun\Desktop\Dropbox\Kinect\Debug\Fitness_new\obj\x86\Debug\KinectHubDemo.csprojResolveAssemblyReference.cache
+C:\Users\jun\Desktop\Dropbox\Kinect\Debug\Fitness_new\obj\x86\Debug\avatar2.baml
+C:\Users\jun\Desktop\Dropbox\Kinect\Debug\Fitness_new\obj\x86\Debug\confirm.baml
+C:\Users\jun\Desktop\Dropbox\Kinect\Debug\Fitness_new\obj\x86\Debug\exercise1.baml
+C:\Users\jun\Desktop\Dropbox\Kinect\Debug\Fitness_new\obj\x86\Debug\MainWindow.baml
+C:\Users\jun\Desktop\Dropbox\Kinect\Debug\Fitness_new\obj\x86\Debug\name.baml
+C:\Users\jun\Desktop\Dropbox\Kinect\Debug\Fitness_new\obj\x86\Debug\window8.baml
+C:\Users\jun\Desktop\Dropbox\Kinect\Debug\Fitness_new\obj\x86\Debug\UI1.baml
+C:\Users\jun\Desktop\Dropbox\Kinect\Debug\Fitness_new\obj\x86\Debug\avatar1.baml
+C:\Users\jun\Desktop\Dropbox\Kinect\Debug\Fitness_new\obj\x86\Debug\Window1.baml
+C:\Users\jun\Desktop\Dropbox\Kinect\Debug\Fitness_new\obj\x86\Debug\Window3.baml
+C:\Users\jun\Desktop\Dropbox\Kinect\Debug\Fitness_new\obj\x86\Debug\Window2.baml
+C:\Users\jun\Desktop\Dropbox\Kinect\Debug\Fitness_new\obj\x86\Debug\Window7.baml
+C:\Users\jun\Desktop\Dropbox\Kinect\Debug\Fitness_new\obj\x86\Debug\avatar2.g.cs
+C:\Users\jun\Desktop\Dropbox\Kinect\Debug\Fitness_new\obj\x86\Debug\confirm.g.cs
+C:\Users\jun\Desktop\Dropbox\Kinect\Debug\Fitness_new\obj\x86\Debug\exercise1.g.cs
+C:\Users\jun\Desktop\Dropbox\Kinect\Debug\Fitness_new\obj\x86\Debug\MainWindow.g.cs
+C:\Users\jun\Desktop\Dropbox\Kinect\Debug\Fitness_new\obj\x86\Debug\name.g.cs
+C:\Users\jun\Desktop\Dropbox\Kinect\Debug\Fitness_new\obj\x86\Debug\window8.g.cs
+C:\Users\jun\Desktop\Dropbox\Kinect\Debug\Fitness_new\obj\x86\Debug\UI1.g.cs
+C:\Users\jun\Desktop\Dropbox\Kinect\Debug\Fitness_new\obj\x86\Debug\avatar1.g.cs
+C:\Users\jun\Desktop\Dropbox\Kinect\Debug\Fitness_new\obj\x86\Debug\Window1.g.cs
+C:\Users\jun\Desktop\Dropbox\Kinect\Debug\Fitness_new\obj\x86\Debug\Window3.g.cs
+C:\Users\jun\Desktop\Dropbox\Kinect\Debug\Fitness_new\obj\x86\Debug\Window2.g.cs
+C:\Users\jun\Desktop\Dropbox\Kinect\Debug\Fitness_new\obj\x86\Debug\Window7.g.cs
+C:\Users\jun\Desktop\Dropbox\Kinect\Debug\Fitness_new\obj\x86\Debug\App.g.cs
+C:\Users\jun\Desktop\Dropbox\Kinect\Debug\Fitness_new\obj\x86\Debug\KinectUserInterfaceDemo_MarkupCompile.cache
+C:\Users\jun\Desktop\Dropbox\Kinect\Debug\Fitness_new\obj\x86\Debug\KinectUserInterfaceDemo.g.resources
+C:\Users\jun\Desktop\Dropbox\Kinect\Debug\Fitness_new\obj\x86\Debug\KinectHubDemo.Properties.Resources.resources
+C:\Users\jun\Desktop\Dropbox\Kinect\Debug\Fitness_new\obj\x86\Debug\KinectHubDemo.csproj.GenerateResource.Cache
+C:\Users\Ada\Desktop\kinect\4.28\Fitness_new\bin\Debug\KinectUserInterfaceDemo.exe.config
+C:\Users\Ada\Desktop\kinect\4.28\Fitness_new\obj\x86\Debug\KinectUserInterfaceDemo.exe
+C:\Users\Ada\Desktop\kinect\4.28\Fitness_new\obj\x86\Debug\KinectUserInterfaceDemo.pdb
+C:\Users\Ada\Desktop\kinect\4.28\Fitness_new\bin\Debug\Window1.xaml.cs
+C:\Users\Ada\Desktop\kinect\4.28\Fitness_new\bin\Debug\App.xaml.cs
+C:\Users\Ada\Desktop\kinect\4.28\Fitness_new\bin\Debug\MainWindow.xaml.cs
+C:\Users\Ada\Desktop\kinect\4.28\Fitness_new\bin\Debug\KinectUserInterfaceDemo.exe
+C:\Users\Ada\Desktop\kinect\4.28\Fitness_new\bin\Debug\KinectUserInterfaceDemo.pdb
+C:\Users\Ada\Desktop\kinect\4.28\Fitness_new\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Ada\Desktop\kinect\4.28\Fitness_new\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\Ada\Desktop\kinect\4.28\Fitness_new\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Ada\Desktop\kinect\4.28\Fitness_new\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\Ada\Desktop\kinect\4.28\Fitness_new\bin\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\Ada\Desktop\kinect\4.28\Fitness_new\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Users\Ada\Desktop\kinect\4.28\Fitness_new\obj\x86\Debug\KinectHubDemo.csprojResolveAssemblyReference.cache
+C:\Users\Ada\Desktop\kinect\4.28\Fitness_new\obj\x86\Debug\avatar2.baml
+C:\Users\Ada\Desktop\kinect\4.28\Fitness_new\obj\x86\Debug\confirm.baml
+C:\Users\Ada\Desktop\kinect\4.28\Fitness_new\obj\x86\Debug\exercise1.baml
+C:\Users\Ada\Desktop\kinect\4.28\Fitness_new\obj\x86\Debug\MainWindow.baml
+C:\Users\Ada\Desktop\kinect\4.28\Fitness_new\obj\x86\Debug\name.baml
+C:\Users\Ada\Desktop\kinect\4.28\Fitness_new\obj\x86\Debug\window8.baml
+C:\Users\Ada\Desktop\kinect\4.28\Fitness_new\obj\x86\Debug\UI1.baml
+C:\Users\Ada\Desktop\kinect\4.28\Fitness_new\obj\x86\Debug\avatar1.baml
+C:\Users\Ada\Desktop\kinect\4.28\Fitness_new\obj\x86\Debug\Window1.baml
+C:\Users\Ada\Desktop\kinect\4.28\Fitness_new\obj\x86\Debug\Window3.baml
+C:\Users\Ada\Desktop\kinect\4.28\Fitness_new\obj\x86\Debug\Window2.baml
+C:\Users\Ada\Desktop\kinect\4.28\Fitness_new\obj\x86\Debug\Window7.baml
+C:\Users\Ada\Desktop\kinect\4.28\Fitness_new\obj\x86\Debug\avatar2.g.cs
+C:\Users\Ada\Desktop\kinect\4.28\Fitness_new\obj\x86\Debug\confirm.g.cs
+C:\Users\Ada\Desktop\kinect\4.28\Fitness_new\obj\x86\Debug\exercise1.g.cs
+C:\Users\Ada\Desktop\kinect\4.28\Fitness_new\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Ada\Desktop\kinect\4.28\Fitness_new\obj\x86\Debug\name.g.cs
+C:\Users\Ada\Desktop\kinect\4.28\Fitness_new\obj\x86\Debug\window8.g.cs
+C:\Users\Ada\Desktop\kinect\4.28\Fitness_new\obj\x86\Debug\UI1.g.cs
+C:\Users\Ada\Desktop\kinect\4.28\Fitness_new\obj\x86\Debug\avatar1.g.cs
+C:\Users\Ada\Desktop\kinect\4.28\Fitness_new\obj\x86\Debug\Window1.g.cs
+C:\Users\Ada\Desktop\kinect\4.28\Fitness_new\obj\x86\Debug\Window3.g.cs
+C:\Users\Ada\Desktop\kinect\4.28\Fitness_new\obj\x86\Debug\Window2.g.cs
+C:\Users\Ada\Desktop\kinect\4.28\Fitness_new\obj\x86\Debug\Window7.g.cs
+C:\Users\Ada\Desktop\kinect\4.28\Fitness_new\obj\x86\Debug\App.g.cs
+C:\Users\Ada\Desktop\kinect\4.28\Fitness_new\obj\x86\Debug\KinectUserInterfaceDemo_MarkupCompile.cache
+C:\Users\Ada\Desktop\kinect\4.28\Fitness_new\obj\x86\Debug\KinectUserInterfaceDemo.g.resources
+C:\Users\Ada\Desktop\kinect\4.28\Fitness_new\obj\x86\Debug\KinectHubDemo.Properties.Resources.resources
+C:\Users\Ada\Desktop\kinect\4.28\Fitness_new\obj\x86\Debug\KinectHubDemo.csproj.GenerateResource.Cache
+C:\Users\jun\Desktop\kinect\新建文件夹\Fitness_new\bin\Debug\KinectUserInterfaceDemo.exe.config
+C:\Users\jun\Desktop\kinect\新建文件夹\Fitness_new\obj\x86\Debug\KinectUserInterfaceDemo.exe
+C:\Users\jun\Desktop\kinect\新建文件夹\Fitness_new\obj\x86\Debug\KinectUserInterfaceDemo.pdb
+C:\Users\jun\Desktop\kinect\4.28\Fitness_new\bin\Debug\KinectUserInterfaceDemo.exe.config
+C:\Users\jun\Desktop\kinect\4.28\Fitness_new\obj\x86\Debug\KinectUserInterfaceDemo.exe
+C:\Users\jun\Desktop\kinect\4.28\Fitness_new\obj\x86\Debug\KinectUserInterfaceDemo.pdb
+C:\Users\jun\Desktop\kinect\4.28\Fitness_new\bin\Debug\Window1.xaml.cs
+C:\Users\jun\Desktop\kinect\4.28\Fitness_new\bin\Debug\App.xaml.cs
+C:\Users\jun\Desktop\kinect\4.28\Fitness_new\bin\Debug\MainWindow.xaml.cs
+C:\Users\jun\Desktop\kinect\4.28\Fitness_new\bin\Debug\KinectUserInterfaceDemo.exe
+C:\Users\jun\Desktop\kinect\4.28\Fitness_new\bin\Debug\KinectUserInterfaceDemo.pdb
+C:\Users\jun\Desktop\kinect\4.28\Fitness_new\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\jun\Desktop\kinect\4.28\Fitness_new\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\jun\Desktop\kinect\4.28\Fitness_new\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\jun\Desktop\kinect\4.28\Fitness_new\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\jun\Desktop\kinect\4.28\Fitness_new\bin\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\jun\Desktop\kinect\4.28\Fitness_new\obj\x86\Debug\KinectHubDemo.csprojResolveAssemblyReference.cache
+C:\Users\jun\Desktop\kinect\4.28\Fitness_new\obj\x86\Debug\avatar2.baml
+C:\Users\jun\Desktop\kinect\4.28\Fitness_new\obj\x86\Debug\confirm.baml
+C:\Users\jun\Desktop\kinect\4.28\Fitness_new\obj\x86\Debug\exercise1.baml
+C:\Users\jun\Desktop\kinect\4.28\Fitness_new\obj\x86\Debug\MainWindow.baml
+C:\Users\jun\Desktop\kinect\4.28\Fitness_new\obj\x86\Debug\name.baml
+C:\Users\jun\Desktop\kinect\4.28\Fitness_new\obj\x86\Debug\UI1.baml
+C:\Users\jun\Desktop\kinect\4.28\Fitness_new\obj\x86\Debug\avatar1.baml
+C:\Users\jun\Desktop\kinect\4.28\Fitness_new\obj\x86\Debug\Window1.baml
+C:\Users\jun\Desktop\kinect\4.28\Fitness_new\obj\x86\Debug\Window3.baml
+C:\Users\jun\Desktop\kinect\4.28\Fitness_new\obj\x86\Debug\Window2.baml
+C:\Users\jun\Desktop\kinect\4.28\Fitness_new\obj\x86\Debug\Window7.baml
+C:\Users\jun\Desktop\kinect\4.28\Fitness_new\obj\x86\Debug\avatar2.g.cs
+C:\Users\jun\Desktop\kinect\4.28\Fitness_new\obj\x86\Debug\confirm.g.cs
+C:\Users\jun\Desktop\kinect\4.28\Fitness_new\obj\x86\Debug\exercise1.g.cs
+C:\Users\jun\Desktop\kinect\4.28\Fitness_new\obj\x86\Debug\MainWindow.g.cs
+C:\Users\jun\Desktop\kinect\4.28\Fitness_new\obj\x86\Debug\name.g.cs
+C:\Users\jun\Desktop\kinect\4.28\Fitness_new\obj\x86\Debug\UI1.g.cs
+C:\Users\jun\Desktop\kinect\4.28\Fitness_new\obj\x86\Debug\avatar1.g.cs
+C:\Users\jun\Desktop\kinect\4.28\Fitness_new\obj\x86\Debug\Window1.g.cs
+C:\Users\jun\Desktop\kinect\4.28\Fitness_new\obj\x86\Debug\Window3.g.cs
+C:\Users\jun\Desktop\kinect\4.28\Fitness_new\obj\x86\Debug\Window2.g.cs
+C:\Users\jun\Desktop\kinect\4.28\Fitness_new\obj\x86\Debug\Window7.g.cs
+C:\Users\jun\Desktop\kinect\4.28\Fitness_new\obj\x86\Debug\App.g.cs
+C:\Users\jun\Desktop\kinect\4.28\Fitness_new\obj\x86\Debug\KinectUserInterfaceDemo_MarkupCompile.cache
+C:\Users\jun\Desktop\kinect\4.28\Fitness_new\obj\x86\Debug\KinectUserInterfaceDemo.g.resources
+C:\Users\jun\Desktop\kinect\4.28\Fitness_new\obj\x86\Debug\KinectHubDemo.Properties.Resources.resources
+C:\Users\jun\Desktop\kinect\4.28\Fitness_new\obj\x86\Debug\KinectHubDemo.csproj.GenerateResource.Cache
+E:\Dropbox\Kinect\5.1\Fitness_new\bin\Debug\KinectUserInterfaceDemo.exe.config
+E:\Dropbox\Kinect\5.1\Fitness_new\bin\Debug\Window1.xaml.cs
+E:\Dropbox\Kinect\5.1\Fitness_new\bin\Debug\App.xaml.cs
+E:\Dropbox\Kinect\5.1\Fitness_new\bin\Debug\MainWindow.xaml.cs
+E:\Dropbox\Kinect\5.1\Fitness_new\bin\Debug\KinectUserInterfaceDemo.exe
+E:\Dropbox\Kinect\5.1\Fitness_new\bin\Debug\KinectUserInterfaceDemo.pdb
+E:\Dropbox\Kinect\5.1\Fitness_new\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+E:\Dropbox\Kinect\5.1\Fitness_new\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+E:\Dropbox\Kinect\5.1\Fitness_new\bin\Debug\Microsoft.Kinect.Toolkit.dll
+E:\Dropbox\Kinect\5.1\Fitness_new\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+E:\Dropbox\Kinect\5.1\Fitness_new\bin\Debug\Microsoft.Expression.Drawing.xml
+E:\Dropbox\Kinect\5.1\Fitness_new\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+E:\Dropbox\Kinect\5.1\Fitness_new\obj\x86\Debug\KinectHubDemo.csprojResolveAssemblyReference.cache
+E:\Dropbox\Kinect\5.1\Fitness_new\obj\x86\Debug\avatar2.baml
+E:\Dropbox\Kinect\5.1\Fitness_new\obj\x86\Debug\confirm.baml
+E:\Dropbox\Kinect\5.1\Fitness_new\obj\x86\Debug\exercise1.baml
+E:\Dropbox\Kinect\5.1\Fitness_new\obj\x86\Debug\MainWindow.baml
+E:\Dropbox\Kinect\5.1\Fitness_new\obj\x86\Debug\name.baml
+E:\Dropbox\Kinect\5.1\Fitness_new\obj\x86\Debug\window8.baml
+E:\Dropbox\Kinect\5.1\Fitness_new\obj\x86\Debug\UI1.baml
+E:\Dropbox\Kinect\5.1\Fitness_new\obj\x86\Debug\avatar1.baml
+E:\Dropbox\Kinect\5.1\Fitness_new\obj\x86\Debug\Window1.baml
+E:\Dropbox\Kinect\5.1\Fitness_new\obj\x86\Debug\Window3.baml
+E:\Dropbox\Kinect\5.1\Fitness_new\obj\x86\Debug\Window2.baml
+E:\Dropbox\Kinect\5.1\Fitness_new\obj\x86\Debug\Window7.baml
+E:\Dropbox\Kinect\5.1\Fitness_new\obj\x86\Debug\avatar2.g.cs
+E:\Dropbox\Kinect\5.1\Fitness_new\obj\x86\Debug\confirm.g.cs
+E:\Dropbox\Kinect\5.1\Fitness_new\obj\x86\Debug\exercise1.g.cs
+E:\Dropbox\Kinect\5.1\Fitness_new\obj\x86\Debug\MainWindow.g.cs
+E:\Dropbox\Kinect\5.1\Fitness_new\obj\x86\Debug\name.g.cs
+E:\Dropbox\Kinect\5.1\Fitness_new\obj\x86\Debug\window8.g.cs
+E:\Dropbox\Kinect\5.1\Fitness_new\obj\x86\Debug\UI1.g.cs
+E:\Dropbox\Kinect\5.1\Fitness_new\obj\x86\Debug\avatar1.g.cs
+E:\Dropbox\Kinect\5.1\Fitness_new\obj\x86\Debug\Window1.g.cs
+E:\Dropbox\Kinect\5.1\Fitness_new\obj\x86\Debug\Window3.g.cs
+E:\Dropbox\Kinect\5.1\Fitness_new\obj\x86\Debug\Window2.g.cs
+E:\Dropbox\Kinect\5.1\Fitness_new\obj\x86\Debug\Window7.g.cs
+E:\Dropbox\Kinect\5.1\Fitness_new\obj\x86\Debug\App.g.cs
+E:\Dropbox\Kinect\5.1\Fitness_new\obj\x86\Debug\KinectUserInterfaceDemo_MarkupCompile.cache
+E:\Dropbox\Kinect\5.1\Fitness_new\obj\x86\Debug\KinectUserInterfaceDemo.g.resources
+E:\Dropbox\Kinect\5.1\Fitness_new\obj\x86\Debug\KinectHubDemo.Properties.Resources.resources
+E:\Dropbox\Kinect\5.1\Fitness_new\obj\x86\Debug\KinectHubDemo.csproj.GenerateResource.Cache
+E:\Dropbox\Kinect\5.1\Fitness_new\obj\x86\Debug\KinectUserInterfaceDemo.exe
+E:\Dropbox\Kinect\5.1\Fitness_new\obj\x86\Debug\KinectUserInterfaceDemo.pdb
+C:\Users\jun\Desktop\Dropbox\Kinect\5.1\Fitness_new\bin\Debug\KinectUserInterfaceDemo.exe.config
+C:\Users\jun\Desktop\Dropbox\Kinect\5.1\Fitness_new\obj\x86\Debug\KinectUserInterfaceDemo.exe
+C:\Users\jun\Desktop\Dropbox\Kinect\5.1\Fitness_new\obj\x86\Debug\KinectHubDemo.csprojResolveAssemblyReference.cache
+C:\Users\jun\Desktop\Dropbox\Kinect\5.1\Fitness_new\obj\x86\Debug\avatar2.baml
+C:\Users\jun\Desktop\Dropbox\Kinect\5.1\Fitness_new\obj\x86\Debug\confirm.baml
+C:\Users\jun\Desktop\Dropbox\Kinect\5.1\Fitness_new\obj\x86\Debug\exercise1.baml
+C:\Users\jun\Desktop\Dropbox\Kinect\5.1\Fitness_new\obj\x86\Debug\MainWindow.baml
+C:\Users\jun\Desktop\Dropbox\Kinect\5.1\Fitness_new\obj\x86\Debug\name.baml
+C:\Users\jun\Desktop\Dropbox\Kinect\5.1\Fitness_new\obj\x86\Debug\window8.baml
+C:\Users\jun\Desktop\Dropbox\Kinect\5.1\Fitness_new\obj\x86\Debug\UI1.baml
+C:\Users\jun\Desktop\Dropbox\Kinect\5.1\Fitness_new\obj\x86\Debug\avatar1.baml
+C:\Users\jun\Desktop\Dropbox\Kinect\5.1\Fitness_new\obj\x86\Debug\Window1.baml
+C:\Users\jun\Desktop\Dropbox\Kinect\5.1\Fitness_new\obj\x86\Debug\Window3.baml
+C:\Users\jun\Desktop\Dropbox\Kinect\5.1\Fitness_new\obj\x86\Debug\Window2.baml
+C:\Users\jun\Desktop\Dropbox\Kinect\5.1\Fitness_new\obj\x86\Debug\Window7.baml
+C:\Users\jun\Desktop\Dropbox\Kinect\5.1\Fitness_new\obj\x86\Debug\avatar2.g.cs
+C:\Users\jun\Desktop\Dropbox\Kinect\5.1\Fitness_new\obj\x86\Debug\confirm.g.cs
+C:\Users\jun\Desktop\Dropbox\Kinect\5.1\Fitness_new\obj\x86\Debug\exercise1.g.cs
+C:\Users\jun\Desktop\Dropbox\Kinect\5.1\Fitness_new\obj\x86\Debug\MainWindow.g.cs
+C:\Users\jun\Desktop\Dropbox\Kinect\5.1\Fitness_new\obj\x86\Debug\name.g.cs
+C:\Users\jun\Desktop\Dropbox\Kinect\5.1\Fitness_new\obj\x86\Debug\window8.g.cs
+C:\Users\jun\Desktop\Dropbox\Kinect\5.1\Fitness_new\obj\x86\Debug\UI1.g.cs
+C:\Users\jun\Desktop\Dropbox\Kinect\5.1\Fitness_new\obj\x86\Debug\avatar1.g.cs
+C:\Users\jun\Desktop\Dropbox\Kinect\5.1\Fitness_new\obj\x86\Debug\Window1.g.cs
+C:\Users\jun\Desktop\Dropbox\Kinect\5.1\Fitness_new\obj\x86\Debug\Window3.g.cs
+C:\Users\jun\Desktop\Dropbox\Kinect\5.1\Fitness_new\obj\x86\Debug\Window2.g.cs
+C:\Users\jun\Desktop\Dropbox\Kinect\5.1\Fitness_new\obj\x86\Debug\Window7.g.cs
+C:\Users\jun\Desktop\Dropbox\Kinect\5.1\Fitness_new\obj\x86\Debug\App.g.cs
+C:\Users\jun\Desktop\Dropbox\Kinect\5.1\Fitness_new\obj\x86\Debug\KinectUserInterfaceDemo_MarkupCompile.cache
+C:\Users\jun\Desktop\Dropbox\Kinect\5.1\Fitness_new\obj\x86\Debug\KinectUserInterfaceDemo.g.resources
+C:\Users\jun\Desktop\Dropbox\Kinect\5.1\Fitness_new\obj\x86\Debug\KinectHubDemo.Properties.Resources.resources
+C:\Users\jun\Desktop\Dropbox\Kinect\5.1\Fitness_new\obj\x86\Debug\KinectHubDemo.csproj.GenerateResource.Cache
+C:\Users\jun\Desktop\Dropbox\Kinect\5.1\Fitness_new\bin\Debug\Window1.xaml.cs
+C:\Users\jun\Desktop\Dropbox\Kinect\5.1\Fitness_new\bin\Debug\App.xaml.cs
+C:\Users\jun\Desktop\Dropbox\Kinect\5.1\Fitness_new\bin\Debug\MainWindow.xaml.cs
+C:\Users\jun\Desktop\Dropbox\Kinect\5.1\Fitness_new\bin\Debug\KinectUserInterfaceDemo.exe
+C:\Users\jun\Desktop\Dropbox\Kinect\5.1\Fitness_new\bin\Debug\KinectUserInterfaceDemo.pdb
+C:\Users\jun\Desktop\Dropbox\Kinect\5.1\Fitness_new\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\jun\Desktop\Dropbox\Kinect\5.1\Fitness_new\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\jun\Desktop\Dropbox\Kinect\5.1\Fitness_new\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\jun\Desktop\Dropbox\Kinect\5.1\Fitness_new\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\jun\Desktop\Dropbox\Kinect\5.1\Fitness_new\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\jun\Desktop\Dropbox\Kinect\5.1\Fitness_new\bin\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\jun\Desktop\Dropbox\Kinect\5.1\Fitness_new\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Users\jun\Desktop\Dropbox\Kinect\5.1\Fitness_new\obj\x86\Debug\KinectUserInterfaceDemo.pdb
+C:\Users\Jun\Dropbox\Kinect\5.1\Fitness_new\bin\Debug\KinectUserInterfaceDemo.exe.config
+C:\Users\Jun\Dropbox\Kinect\5.1\Fitness_new\obj\x86\Debug\KinectUserInterfaceDemo.exe
+C:\Users\Jun\Dropbox\Kinect\5.1\Fitness_new\obj\x86\Debug\KinectUserInterfaceDemo.pdb
+C:\Users\Jun\Dropbox\Kinect\5.1\Fitness_new\obj\x86\Debug\KinectHubDemo.csprojResolveAssemblyReference.cache
+C:\Users\Jun\Dropbox\Kinect\5.1\Fitness_new\obj\x86\Debug\avatar2.baml
+C:\Users\Jun\Dropbox\Kinect\5.1\Fitness_new\obj\x86\Debug\confirm.baml
+C:\Users\Jun\Dropbox\Kinect\5.1\Fitness_new\obj\x86\Debug\exercise1.baml
+C:\Users\Jun\Dropbox\Kinect\5.1\Fitness_new\obj\x86\Debug\MainWindow.baml
+C:\Users\Jun\Dropbox\Kinect\5.1\Fitness_new\obj\x86\Debug\name.baml
+C:\Users\Jun\Dropbox\Kinect\5.1\Fitness_new\obj\x86\Debug\window8.baml
+C:\Users\Jun\Dropbox\Kinect\5.1\Fitness_new\obj\x86\Debug\UI1.baml
+C:\Users\Jun\Dropbox\Kinect\5.1\Fitness_new\obj\x86\Debug\avatar1.baml
+C:\Users\Jun\Dropbox\Kinect\5.1\Fitness_new\obj\x86\Debug\Window7.baml
+C:\Users\Jun\Dropbox\Kinect\5.1\Fitness_new\obj\x86\Debug\avatar2.g.cs
+C:\Users\Jun\Dropbox\Kinect\5.1\Fitness_new\obj\x86\Debug\confirm.g.cs
+C:\Users\Jun\Dropbox\Kinect\5.1\Fitness_new\obj\x86\Debug\exercise1.g.cs
+C:\Users\Jun\Dropbox\Kinect\5.1\Fitness_new\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Jun\Dropbox\Kinect\5.1\Fitness_new\obj\x86\Debug\name.g.cs
+C:\Users\Jun\Dropbox\Kinect\5.1\Fitness_new\obj\x86\Debug\window8.g.cs
+C:\Users\Jun\Dropbox\Kinect\5.1\Fitness_new\obj\x86\Debug\UI1.g.cs
+C:\Users\Jun\Dropbox\Kinect\5.1\Fitness_new\obj\x86\Debug\avatar1.g.cs
+C:\Users\Jun\Dropbox\Kinect\5.1\Fitness_new\obj\x86\Debug\Window7.g.cs
+C:\Users\Jun\Dropbox\Kinect\5.1\Fitness_new\obj\x86\Debug\App.g.cs
+C:\Users\Jun\Dropbox\Kinect\5.1\Fitness_new\obj\x86\Debug\KinectUserInterfaceDemo_MarkupCompile.cache
+C:\Users\jun\Desktop\kinect\4.28\Fitness_new\obj\x86\Debug\login.baml
+C:\Users\jun\Desktop\kinect\4.28\Fitness_new\obj\x86\Debug\login.g.cs
+C:\Users\jun\Desktop\kinect\4.28\Fitness_new\obj\x86\Debug\logout.baml
+C:\Users\jun\Desktop\kinect\4.28\Fitness_new\obj\x86\Debug\logout.g.cs
+C:\Users\Ada\Desktop\kinect\5.14\Fitness_new\bin\Debug\KinectUserInterfaceDemo.exe.config
+C:\Users\Ada\Desktop\kinect\5.14\Fitness_new\obj\x86\Debug\KinectUserInterfaceDemo.exe
+C:\Users\Ada\Desktop\kinect\5.14\Fitness_new\obj\x86\Debug\KinectUserInterfaceDemo.pdb
+C:\Users\Ada\Desktop\kinect\5.14\Fitness_new\bin\Debug\Window1.xaml.cs
+C:\Users\Ada\Desktop\kinect\5.14\Fitness_new\bin\Debug\App.xaml.cs
+C:\Users\Ada\Desktop\kinect\5.14\Fitness_new\bin\Debug\MainWindow.xaml.cs
+C:\Users\Ada\Desktop\kinect\5.14\Fitness_new\bin\Debug\KinectUserInterfaceDemo.exe
+C:\Users\Ada\Desktop\kinect\5.14\Fitness_new\bin\Debug\KinectUserInterfaceDemo.pdb
+C:\Users\Ada\Desktop\kinect\5.14\Fitness_new\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Ada\Desktop\kinect\5.14\Fitness_new\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\Ada\Desktop\kinect\5.14\Fitness_new\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Ada\Desktop\kinect\5.14\Fitness_new\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\Ada\Desktop\kinect\5.14\Fitness_new\bin\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\Ada\Desktop\kinect\5.14\Fitness_new\obj\x86\Debug\KinectHubDemo.csprojResolveAssemblyReference.cache
+C:\Users\Ada\Desktop\kinect\5.14\Fitness_new\obj\x86\Debug\avatar2.baml
+C:\Users\Ada\Desktop\kinect\5.14\Fitness_new\obj\x86\Debug\confirm.baml
+C:\Users\Ada\Desktop\kinect\5.14\Fitness_new\obj\x86\Debug\exercise1.baml
+C:\Users\Ada\Desktop\kinect\5.14\Fitness_new\obj\x86\Debug\login.baml
+C:\Users\Ada\Desktop\kinect\5.14\Fitness_new\obj\x86\Debug\logout.baml
+C:\Users\Ada\Desktop\kinect\5.14\Fitness_new\obj\x86\Debug\MainWindow.baml
+C:\Users\Ada\Desktop\kinect\5.14\Fitness_new\obj\x86\Debug\name.baml
+C:\Users\Ada\Desktop\kinect\5.14\Fitness_new\obj\x86\Debug\UI1.baml
+C:\Users\Ada\Desktop\kinect\5.14\Fitness_new\obj\x86\Debug\avatar1.baml
+C:\Users\Ada\Desktop\kinect\5.14\Fitness_new\obj\x86\Debug\Window1.baml
+C:\Users\Ada\Desktop\kinect\5.14\Fitness_new\obj\x86\Debug\Window3.baml
+C:\Users\Ada\Desktop\kinect\5.14\Fitness_new\obj\x86\Debug\Window2.baml
+C:\Users\Ada\Desktop\kinect\5.14\Fitness_new\obj\x86\Debug\Window7.baml
+C:\Users\Ada\Desktop\kinect\5.14\Fitness_new\obj\x86\Debug\avatar2.g.cs
+C:\Users\Ada\Desktop\kinect\5.14\Fitness_new\obj\x86\Debug\confirm.g.cs
+C:\Users\Ada\Desktop\kinect\5.14\Fitness_new\obj\x86\Debug\exercise1.g.cs
+C:\Users\Ada\Desktop\kinect\5.14\Fitness_new\obj\x86\Debug\login.g.cs
+C:\Users\Ada\Desktop\kinect\5.14\Fitness_new\obj\x86\Debug\logout.g.cs
+C:\Users\Ada\Desktop\kinect\5.14\Fitness_new\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Ada\Desktop\kinect\5.14\Fitness_new\obj\x86\Debug\name.g.cs
+C:\Users\Ada\Desktop\kinect\5.14\Fitness_new\obj\x86\Debug\UI1.g.cs
+C:\Users\Ada\Desktop\kinect\5.14\Fitness_new\obj\x86\Debug\avatar1.g.cs
+C:\Users\Ada\Desktop\kinect\5.14\Fitness_new\obj\x86\Debug\Window1.g.cs
+C:\Users\Ada\Desktop\kinect\5.14\Fitness_new\obj\x86\Debug\Window3.g.cs
+C:\Users\Ada\Desktop\kinect\5.14\Fitness_new\obj\x86\Debug\Window2.g.cs
+C:\Users\Ada\Desktop\kinect\5.14\Fitness_new\obj\x86\Debug\Window7.g.cs
+C:\Users\Ada\Desktop\kinect\5.14\Fitness_new\obj\x86\Debug\App.g.cs
+C:\Users\Ada\Desktop\kinect\5.14\Fitness_new\obj\x86\Debug\KinectUserInterfaceDemo_MarkupCompile.cache
+C:\Users\Ada\Desktop\kinect\5.14\Fitness_new\obj\x86\Debug\KinectUserInterfaceDemo.g.resources
+C:\Users\Ada\Desktop\kinect\5.14\Fitness_new\obj\x86\Debug\KinectHubDemo.Properties.Resources.resources
+C:\Users\Ada\Desktop\kinect\5.14\Fitness_new\obj\x86\Debug\KinectHubDemo.csproj.GenerateResource.Cache
+C:\Users\jun\Desktop\kinect\5.14\Fitness_new\bin\Debug\KinectUserInterfaceDemo.exe.config
+C:\Users\jun\Desktop\kinect\5.14\Fitness_new\obj\x86\Debug\KinectUserInterfaceDemo.exe
+C:\Users\jun\Desktop\kinect\5.14\Fitness_new\obj\x86\Debug\KinectUserInterfaceDemo.pdb
+C:\Users\jun\Desktop\kinect\5.14\Fitness_new\bin\Debug\Window1.xaml.cs
+C:\Users\jun\Desktop\kinect\5.14\Fitness_new\bin\Debug\App.xaml.cs
+C:\Users\jun\Desktop\kinect\5.14\Fitness_new\bin\Debug\MainWindow.xaml.cs
+C:\Users\jun\Desktop\kinect\5.14\Fitness_new\bin\Debug\KinectUserInterfaceDemo.exe
+C:\Users\jun\Desktop\kinect\5.14\Fitness_new\bin\Debug\KinectUserInterfaceDemo.pdb
+C:\Users\jun\Desktop\kinect\5.14\Fitness_new\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\jun\Desktop\kinect\5.14\Fitness_new\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\jun\Desktop\kinect\5.14\Fitness_new\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\jun\Desktop\kinect\5.14\Fitness_new\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\jun\Desktop\kinect\5.14\Fitness_new\bin\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\jun\Desktop\kinect\5.14\Fitness_new\obj\x86\Debug\KinectHubDemo.csprojResolveAssemblyReference.cache
+C:\Users\jun\Desktop\kinect\5.14\Fitness_new\obj\x86\Debug\avatar2.baml
+C:\Users\jun\Desktop\kinect\5.14\Fitness_new\obj\x86\Debug\confirm.baml
+C:\Users\jun\Desktop\kinect\5.14\Fitness_new\obj\x86\Debug\exercise1.baml
+C:\Users\jun\Desktop\kinect\5.14\Fitness_new\obj\x86\Debug\login.baml
+C:\Users\jun\Desktop\kinect\5.14\Fitness_new\obj\x86\Debug\logout.baml
+C:\Users\jun\Desktop\kinect\5.14\Fitness_new\obj\x86\Debug\MainWindow.baml
+C:\Users\jun\Desktop\kinect\5.14\Fitness_new\obj\x86\Debug\name.baml
+C:\Users\jun\Desktop\kinect\5.14\Fitness_new\obj\x86\Debug\UI1.baml
+C:\Users\jun\Desktop\kinect\5.14\Fitness_new\obj\x86\Debug\avatar1.baml
+C:\Users\jun\Desktop\kinect\5.14\Fitness_new\obj\x86\Debug\Window1.baml
+C:\Users\jun\Desktop\kinect\5.14\Fitness_new\obj\x86\Debug\Window7.baml
+C:\Users\jun\Desktop\kinect\5.14\Fitness_new\obj\x86\Debug\avatar2.g.cs
+C:\Users\jun\Desktop\kinect\5.14\Fitness_new\obj\x86\Debug\confirm.g.cs
+C:\Users\jun\Desktop\kinect\5.14\Fitness_new\obj\x86\Debug\exercise1.g.cs
+C:\Users\jun\Desktop\kinect\5.14\Fitness_new\obj\x86\Debug\login.g.cs
+C:\Users\jun\Desktop\kinect\5.14\Fitness_new\obj\x86\Debug\logout.g.cs
+C:\Users\jun\Desktop\kinect\5.14\Fitness_new\obj\x86\Debug\MainWindow.g.cs
+C:\Users\jun\Desktop\kinect\5.14\Fitness_new\obj\x86\Debug\name.g.cs
+C:\Users\jun\Desktop\kinect\5.14\Fitness_new\obj\x86\Debug\UI1.g.cs
+C:\Users\jun\Desktop\kinect\5.14\Fitness_new\obj\x86\Debug\avatar1.g.cs
+C:\Users\jun\Desktop\kinect\5.14\Fitness_new\obj\x86\Debug\Window1.g.cs
+C:\Users\jun\Desktop\kinect\5.14\Fitness_new\obj\x86\Debug\Window7.g.cs
+C:\Users\jun\Desktop\kinect\5.14\Fitness_new\obj\x86\Debug\App.g.cs
+C:\Users\jun\Desktop\kinect\5.14\Fitness_new\obj\x86\Debug\KinectUserInterfaceDemo_MarkupCompile.cache
+C:\Users\jun\Desktop\kinect\5.14\Fitness_new\obj\x86\Debug\KinectUserInterfaceDemo.g.resources
+C:\Users\jun\Desktop\kinect\5.14\Fitness_new\obj\x86\Debug\KinectHubDemo.Properties.Resources.resources
+C:\Users\jun\Desktop\kinect\5.14\Fitness_new\obj\x86\Debug\KinectHubDemo.csproj.GenerateResource.Cache
+C:\Users\jun\Desktop\kinect\5.14\Fitness_new\obj\x86\Debug\Window4.baml
+C:\Users\jun\Desktop\kinect\5.14\Fitness_new\obj\x86\Debug\Window5.baml
+C:\Users\jun\Desktop\kinect\5.14\Fitness_new\obj\x86\Debug\Window6.baml
+C:\Users\jun\Desktop\kinect\5.14\Fitness_new\obj\x86\Debug\Window4.g.cs
+C:\Users\jun\Desktop\kinect\5.14\Fitness_new\obj\x86\Debug\Window5.g.cs
+C:\Users\jun\Desktop\kinect\5.14\Fitness_new\obj\x86\Debug\Window6.g.cs
+C:\Users\Ada\Desktop\kinect\5.16\Fitness_new\bin\Debug\KinectUserInterfaceDemo.exe.config
+C:\Users\Ada\Desktop\kinect\5.16\Fitness_new\obj\x86\Debug\KinectUserInterfaceDemo.exe
+C:\Users\Ada\Desktop\kinect\5.16\Fitness_new\obj\x86\Debug\KinectUserInterfaceDemo.pdb
+C:\Users\Ada\Desktop\kinect\5.16\Fitness_new\bin\Debug\Window1.xaml.cs
+C:\Users\Ada\Desktop\kinect\5.16\Fitness_new\bin\Debug\App.xaml.cs
+C:\Users\Ada\Desktop\kinect\5.16\Fitness_new\bin\Debug\MainWindow.xaml.cs
+C:\Users\Ada\Desktop\kinect\5.16\Fitness_new\bin\Debug\KinectUserInterfaceDemo.exe
+C:\Users\Ada\Desktop\kinect\5.16\Fitness_new\bin\Debug\KinectUserInterfaceDemo.pdb
+C:\Users\Ada\Desktop\kinect\5.16\Fitness_new\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Ada\Desktop\kinect\5.16\Fitness_new\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\Ada\Desktop\kinect\5.16\Fitness_new\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Ada\Desktop\kinect\5.16\Fitness_new\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\Ada\Desktop\kinect\5.16\Fitness_new\bin\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\Ada\Desktop\kinect\5.16\Fitness_new\obj\x86\Debug\KinectHubDemo.csprojResolveAssemblyReference.cache
+C:\Users\Ada\Desktop\kinect\5.16\Fitness_new\obj\x86\Debug\avatar2.baml
+C:\Users\Ada\Desktop\kinect\5.16\Fitness_new\obj\x86\Debug\confirm.baml
+C:\Users\Ada\Desktop\kinect\5.16\Fitness_new\obj\x86\Debug\exercise1.baml
+C:\Users\Ada\Desktop\kinect\5.16\Fitness_new\obj\x86\Debug\login.baml
+C:\Users\Ada\Desktop\kinect\5.16\Fitness_new\obj\x86\Debug\logout.baml
+C:\Users\Ada\Desktop\kinect\5.16\Fitness_new\obj\x86\Debug\MainWindow.baml
+C:\Users\Ada\Desktop\kinect\5.16\Fitness_new\obj\x86\Debug\name.baml
+C:\Users\Ada\Desktop\kinect\5.16\Fitness_new\obj\x86\Debug\UI1.baml
+C:\Users\Ada\Desktop\kinect\5.16\Fitness_new\obj\x86\Debug\avatar1.baml
+C:\Users\Ada\Desktop\kinect\5.16\Fitness_new\obj\x86\Debug\Window1.baml
+C:\Users\Ada\Desktop\kinect\5.16\Fitness_new\obj\x86\Debug\Window4.baml
+C:\Users\Ada\Desktop\kinect\5.16\Fitness_new\obj\x86\Debug\Window5.baml
+C:\Users\Ada\Desktop\kinect\5.16\Fitness_new\obj\x86\Debug\Window6.baml
+C:\Users\Ada\Desktop\kinect\5.16\Fitness_new\obj\x86\Debug\Window7.baml
+C:\Users\Ada\Desktop\kinect\5.16\Fitness_new\obj\x86\Debug\avatar2.g.cs
+C:\Users\Ada\Desktop\kinect\5.16\Fitness_new\obj\x86\Debug\confirm.g.cs
+C:\Users\Ada\Desktop\kinect\5.16\Fitness_new\obj\x86\Debug\exercise1.g.cs
+C:\Users\Ada\Desktop\kinect\5.16\Fitness_new\obj\x86\Debug\login.g.cs
+C:\Users\Ada\Desktop\kinect\5.16\Fitness_new\obj\x86\Debug\logout.g.cs
+C:\Users\Ada\Desktop\kinect\5.16\Fitness_new\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Ada\Desktop\kinect\5.16\Fitness_new\obj\x86\Debug\name.g.cs
+C:\Users\Ada\Desktop\kinect\5.16\Fitness_new\obj\x86\Debug\UI1.g.cs
+C:\Users\Ada\Desktop\kinect\5.16\Fitness_new\obj\x86\Debug\avatar1.g.cs
+C:\Users\Ada\Desktop\kinect\5.16\Fitness_new\obj\x86\Debug\Window1.g.cs
+C:\Users\Ada\Desktop\kinect\5.16\Fitness_new\obj\x86\Debug\Window4.g.cs
+C:\Users\Ada\Desktop\kinect\5.16\Fitness_new\obj\x86\Debug\Window5.g.cs
+C:\Users\Ada\Desktop\kinect\5.16\Fitness_new\obj\x86\Debug\Window6.g.cs
+C:\Users\Ada\Desktop\kinect\5.16\Fitness_new\obj\x86\Debug\Window7.g.cs
+C:\Users\Ada\Desktop\kinect\5.16\Fitness_new\obj\x86\Debug\App.g.cs
+C:\Users\Ada\Desktop\kinect\5.16\Fitness_new\obj\x86\Debug\KinectUserInterfaceDemo_MarkupCompile.cache
+C:\Users\Ada\Desktop\kinect\5.16\Fitness_new\obj\x86\Debug\KinectUserInterfaceDemo.g.resources
+C:\Users\Ada\Desktop\kinect\5.16\Fitness_new\obj\x86\Debug\KinectHubDemo.Properties.Resources.resources
+C:\Users\Ada\Desktop\kinect\5.16\Fitness_new\obj\x86\Debug\KinectHubDemo.csproj.GenerateResource.Cache
+C:\Users\jun\Desktop\Dropbox\Kinect\5.16\Fitness_new\bin\Debug\KinectUserInterfaceDemo.exe.config
+C:\Users\jun\Desktop\Dropbox\Kinect\5.16\Fitness_new\obj\x86\Debug\KinectUserInterfaceDemo.exe
+C:\Users\jun\Desktop\Dropbox\Kinect\5.16\Fitness_new\obj\x86\Debug\KinectUserInterfaceDemo.pdb
+C:\Users\jun\Desktop\Dropbox\Kinect\5.16\Fitness_new\bin\Debug\Window1.xaml.cs
+C:\Users\jun\Desktop\Dropbox\Kinect\5.16\Fitness_new\bin\Debug\App.xaml.cs
+C:\Users\jun\Desktop\Dropbox\Kinect\5.16\Fitness_new\bin\Debug\MainWindow.xaml.cs
+C:\Users\jun\Desktop\Dropbox\Kinect\5.16\Fitness_new\bin\Debug\KinectUserInterfaceDemo.exe
+C:\Users\jun\Desktop\Dropbox\Kinect\5.16\Fitness_new\bin\Debug\KinectUserInterfaceDemo.pdb
+C:\Users\jun\Desktop\Dropbox\Kinect\5.16\Fitness_new\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\jun\Desktop\Dropbox\Kinect\5.16\Fitness_new\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\jun\Desktop\Dropbox\Kinect\5.16\Fitness_new\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\jun\Desktop\Dropbox\Kinect\5.16\Fitness_new\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\jun\Desktop\Dropbox\Kinect\5.16\Fitness_new\bin\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\jun\Desktop\Dropbox\Kinect\5.16\Fitness_new\obj\x86\Debug\KinectHubDemo.csprojResolveAssemblyReference.cache
+C:\Users\jun\Desktop\Dropbox\Kinect\5.16\Fitness_new\obj\x86\Debug\avatar2.baml
+C:\Users\jun\Desktop\Dropbox\Kinect\5.16\Fitness_new\obj\x86\Debug\confirm.baml
+C:\Users\jun\Desktop\Dropbox\Kinect\5.16\Fitness_new\obj\x86\Debug\exercise1.baml
+C:\Users\jun\Desktop\Dropbox\Kinect\5.16\Fitness_new\obj\x86\Debug\login.baml
+C:\Users\jun\Desktop\Dropbox\Kinect\5.16\Fitness_new\obj\x86\Debug\logout.baml
+C:\Users\jun\Desktop\Dropbox\Kinect\5.16\Fitness_new\obj\x86\Debug\MainWindow.baml
+C:\Users\jun\Desktop\Dropbox\Kinect\5.16\Fitness_new\obj\x86\Debug\name.baml
+C:\Users\jun\Desktop\Dropbox\Kinect\5.16\Fitness_new\obj\x86\Debug\UI1.baml
+C:\Users\jun\Desktop\Dropbox\Kinect\5.16\Fitness_new\obj\x86\Debug\avatar1.baml
+C:\Users\jun\Desktop\Dropbox\Kinect\5.16\Fitness_new\obj\x86\Debug\Window1.baml
+C:\Users\jun\Desktop\Dropbox\Kinect\5.16\Fitness_new\obj\x86\Debug\Window2.baml
+C:\Users\jun\Desktop\Dropbox\Kinect\5.16\Fitness_new\obj\x86\Debug\Window3.baml
+C:\Users\jun\Desktop\Dropbox\Kinect\5.16\Fitness_new\obj\x86\Debug\Window4.baml
+C:\Users\jun\Desktop\Dropbox\Kinect\5.16\Fitness_new\obj\x86\Debug\Window5.baml
+C:\Users\jun\Desktop\Dropbox\Kinect\5.16\Fitness_new\obj\x86\Debug\Window6.baml
+C:\Users\jun\Desktop\Dropbox\Kinect\5.16\Fitness_new\obj\x86\Debug\Window7.baml
+C:\Users\jun\Desktop\Dropbox\Kinect\5.16\Fitness_new\obj\x86\Debug\avatar2.g.cs
+C:\Users\jun\Desktop\Dropbox\Kinect\5.16\Fitness_new\obj\x86\Debug\confirm.g.cs
+C:\Users\jun\Desktop\Dropbox\Kinect\5.16\Fitness_new\obj\x86\Debug\exercise1.g.cs
+C:\Users\jun\Desktop\Dropbox\Kinect\5.16\Fitness_new\obj\x86\Debug\login.g.cs
+C:\Users\jun\Desktop\Dropbox\Kinect\5.16\Fitness_new\obj\x86\Debug\logout.g.cs
+C:\Users\jun\Desktop\Dropbox\Kinect\5.16\Fitness_new\obj\x86\Debug\MainWindow.g.cs
+C:\Users\jun\Desktop\Dropbox\Kinect\5.16\Fitness_new\obj\x86\Debug\name.g.cs
+C:\Users\jun\Desktop\Dropbox\Kinect\5.16\Fitness_new\obj\x86\Debug\UI1.g.cs
+C:\Users\jun\Desktop\Dropbox\Kinect\5.16\Fitness_new\obj\x86\Debug\avatar1.g.cs
+C:\Users\jun\Desktop\Dropbox\Kinect\5.16\Fitness_new\obj\x86\Debug\Window1.g.cs
+C:\Users\jun\Desktop\Dropbox\Kinect\5.16\Fitness_new\obj\x86\Debug\Window2.g.cs
+C:\Users\jun\Desktop\Dropbox\Kinect\5.16\Fitness_new\obj\x86\Debug\Window3.g.cs
+C:\Users\jun\Desktop\Dropbox\Kinect\5.16\Fitness_new\obj\x86\Debug\Window4.g.cs
+C:\Users\jun\Desktop\Dropbox\Kinect\5.16\Fitness_new\obj\x86\Debug\Window5.g.cs
+C:\Users\jun\Desktop\Dropbox\Kinect\5.16\Fitness_new\obj\x86\Debug\Window6.g.cs
+C:\Users\jun\Desktop\Dropbox\Kinect\5.16\Fitness_new\obj\x86\Debug\Window7.g.cs
+C:\Users\jun\Desktop\Dropbox\Kinect\5.16\Fitness_new\obj\x86\Debug\App.g.cs
+C:\Users\jun\Desktop\Dropbox\Kinect\5.16\Fitness_new\obj\x86\Debug\KinectUserInterfaceDemo_MarkupCompile.cache
+C:\Users\jun\Desktop\Dropbox\Kinect\5.16\Fitness_new\obj\x86\Debug\KinectUserInterfaceDemo.g.resources
+C:\Users\jun\Desktop\Dropbox\Kinect\5.16\Fitness_new\obj\x86\Debug\KinectHubDemo.Properties.Resources.resources
+C:\Users\jun\Desktop\Dropbox\Kinect\5.16\Fitness_new\obj\x86\Debug\KinectHubDemo.csproj.GenerateResource.Cache
+E:\Dropbox\Kinect\5.16\Fitness_new\bin\Debug\KinectUserInterfaceDemo.exe.config
+E:\Dropbox\Kinect\5.16\Fitness_new\obj\x86\Debug\KinectUserInterfaceDemo.exe
+E:\Dropbox\Kinect\5.16\Fitness_new\obj\x86\Debug\KinectUserInterfaceDemo.pdb

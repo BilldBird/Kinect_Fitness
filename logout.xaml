@@ -1,0 +1,20 @@
+﻿<Page x:Class="KinectHubDemo.logout"
+     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:Controls="clr-namespace:Coding4Fun.Kinect.Wpf.Controls;assembly=Coding4Fun.Kinect.Wpf"
+      mc:Ignorable="d" 
+       d:DesignHeight="474" d:DesignWidth="769"
+	Title="logout">
+
+    <Grid>
+        <Button Content="" Height="144" HorizontalAlignment="Left" x:Name="button1" VerticalAlignment="Top" Width="142" Click="button1_Click" Margin="177,262,0,0">
+            <Button.Background>
+                <ImageBrush ImageSource="image/yes.jpg" />
+            </Button.Background>
+        </Button>
+        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top" Margin="92,66,0,0" Height="134" Width="622" FontSize="36"><Run Language="zh-cn" Text="Not current user ?"/><LineBreak/><Run Language="zh-cn" Text="&#x9;(carefully: yes will log out)"/></TextBlock>
+
+    </Grid>
+</Page>

@@ -1,0 +1,46 @@
+C:\Users\jijiah\Documents\Visual Studio Codename Orcas\Projects\FlashinWPF\FlashControl\bin\Debug\FlashControl.dll
+C:\Users\jijiah\Documents\Visual Studio Codename Orcas\Projects\FlashinWPF\FlashControl\bin\Debug\FlashControl.pdb
+C:\Users\jijiah\Documents\Visual Studio Codename Orcas\Projects\FlashinWPF\FlashControl\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\jijiah\Documents\Visual Studio Codename Orcas\Projects\FlashinWPF\FlashControl\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\jijiah\Documents\Visual Studio Codename Orcas\Projects\FlashinWPF\FlashControl\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jijiah\Documents\Visual Studio Codename Orcas\Projects\FlashinWPF\FlashControl\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\jijiah\Documents\Visual Studio Codename Orcas\Projects\FlashinWPF\FlashControl\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\jijiah\Documents\Visual Studio Codename Orcas\Projects\FlashinWPF\FlashControl\obj\Debug\FlashControl.csproj.ResolveComReference.cache
+C:\Users\jijiah\Documents\Visual Studio Codename Orcas\Projects\FlashinWPF\FlashControl\obj\Debug\FlashControl.UserControl1.resources
+C:\Users\jijiah\Documents\Visual Studio Codename Orcas\Projects\FlashinWPF\FlashControl\obj\Debug\FlashControl.csproj.GenerateResource.Cache
+C:\Users\jijiah\Documents\Visual Studio Codename Orcas\Projects\FlashinWPF\FlashControl\obj\Debug\FlashControl.dll
+C:\Users\jijiah\Documents\Visual Studio Codename Orcas\Projects\FlashinWPF\FlashControl\obj\Debug\FlashControl.pdb
+C:\Users\Ada\Desktop\kinect\Fitness\FlashControl\bin\Debug\FlashControl.dll
+C:\Users\Ada\Desktop\kinect\Fitness\FlashControl\bin\Debug\FlashControl.pdb
+C:\Users\Ada\Desktop\kinect\Fitness\FlashControl\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Ada\Desktop\kinect\Fitness\FlashControl\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Ada\Desktop\kinect\Fitness\FlashControl\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Ada\Desktop\kinect\Fitness\FlashControl\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Ada\Desktop\kinect\Fitness\FlashControl\obj\Debug\FlashControl.csproj.ResolveComReference.cache
+C:\Users\Ada\Desktop\kinect\Fitness\FlashControl\obj\Debug\FlashControl.UserControl1.resources
+C:\Users\Ada\Desktop\kinect\Fitness\FlashControl\obj\Debug\FlashControl.csproj.GenerateResource.Cache
+C:\Users\Ada\Desktop\kinect\Fitness\FlashControl\obj\Debug\FlashControl.dll
+C:\Users\Ada\Desktop\kinect\Fitness\FlashControl\obj\Debug\FlashControl.pdb
+C:\Users\Ada\Desktop\kinect\Fitness_new\Fitness_new\FlashControl\bin\Debug\FlashControl.dll
+C:\Users\Ada\Desktop\kinect\Fitness_new\Fitness_new\FlashControl\bin\Debug\FlashControl.pdb
+C:\Users\Ada\Desktop\kinect\Fitness_new\Fitness_new\FlashControl\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Ada\Desktop\kinect\Fitness_new\Fitness_new\FlashControl\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Ada\Desktop\kinect\Fitness_new\Fitness_new\FlashControl\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Ada\Desktop\kinect\Fitness_new\Fitness_new\FlashControl\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Ada\Desktop\kinect\Fitness_new\Fitness_new\FlashControl\obj\Debug\FlashControl.csproj.ResolveComReference.cache
+C:\Users\Ada\Desktop\kinect\Fitness_new\Fitness_new\FlashControl\obj\Debug\FlashControl.UserControl1.resources
+C:\Users\Ada\Desktop\kinect\Fitness_new\Fitness_new\FlashControl\obj\Debug\FlashControl.csproj.GenerateResource.Cache
+C:\Users\Ada\Desktop\kinect\Fitness_new\Fitness_new\FlashControl\obj\Debug\FlashControl.dll
+C:\Users\Ada\Desktop\kinect\Fitness_new\Fitness_new\FlashControl\obj\Debug\FlashControl.pdb
+C:\Users\Ada\Desktop\kinect\4.28\Fitness_new\FlashControl\bin\Debug\FlashControl.dll
+C:\Users\Ada\Desktop\kinect\4.28\Fitness_new\FlashControl\bin\Debug\FlashControl.pdb
+C:\Users\Ada\Desktop\kinect\4.28\Fitness_new\FlashControl\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Ada\Desktop\kinect\4.28\Fitness_new\FlashControl\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Ada\Desktop\kinect\4.28\Fitness_new\FlashControl\obj\Debug\FlashControl.csprojResolveAssemblyReference.cache
+C:\Users\Ada\Desktop\kinect\4.28\Fitness_new\FlashControl\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Ada\Desktop\kinect\4.28\Fitness_new\FlashControl\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Ada\Desktop\kinect\4.28\Fitness_new\FlashControl\obj\Debug\FlashControl.csproj.ResolveComReference.cache
+C:\Users\Ada\Desktop\kinect\4.28\Fitness_new\FlashControl\obj\Debug\FlashControl.UserControl1.resources
+C:\Users\Ada\Desktop\kinect\4.28\Fitness_new\FlashControl\obj\Debug\FlashControl.csproj.GenerateResource.Cache
+C:\Users\Ada\Desktop\kinect\4.28\Fitness_new\FlashControl\obj\Debug\FlashControl.dll
+C:\Users\Ada\Desktop\kinect\4.28\Fitness_new\FlashControl\obj\Debug\FlashControl.pdb
